@@ -21,28 +21,30 @@ function HeaderLinks({ ...props }) {
     const { classes } = props;
     return (
         <List className={classes.list}>
+            {/*
+
             <ListItem className={classes.listItem}>
                 <CustomDropdown
                     noLiPadding
-                    buttonText={"Components"}
-                    buttonsProps={{
-                    className: classes.navLink,
+                    buttonText="Components"
+                    buttonProps={{
+                        className: classes.navLink,
                         color: "transparent"
                     }}
-                    buttonsIcon={Apps}
+                    buttonIcon={Apps}
                     dropdownList={[
-                        <Link to={"/"} className={classes.dropdownList}>
+                        <Link to="/" className={classes.dropdownLink}>
                             All components
                         </Link>,
                         <a
-                        href={"https://creativetimofficial.github.io/material-kit-react/#/documentation"}
-                        target={"_blank"}
-                        className={classes.dropdownLink}
+                            href="https://creativetimofficial.github.io/material-kit-react/#/documentation"
+                            target="_blank"
+                            className={classes.dropdownLink}
                         >
                             Documentation
                         </a>
                     ]}
-                    />
+                />
             </ListItem>
             <ListItem className={classes.listItem}>
             <Button
@@ -54,18 +56,19 @@ function HeaderLinks({ ...props }) {
                 <CloudDownload className={classes.icon} /> Download
             </Button>
             </ListItem>
+                        */}
             <ListItem className={classes.listItem}>
                 <Tooltip
                     id={"ig-twitter"}
                     title={"Follow me on twitter"}
                     placement={window.innerWidth > 959 ? "top" : "left"}
                     classes={{ tooltip: classes.tooltip }}
-                    >
-                    <Button href={"https://twitter.com/CreativeTim"}
+                >
+                    <Button href={"https://twitter.com/rooshipatidar"}
                             target={"_blank"}
                             color={"transparent"}
                             className={classes.navLink}
-                            >
+                    >
                         <i className={classes.socialIcons + " fab fa-twitter"} />
                     </Button>
                 </Tooltip>

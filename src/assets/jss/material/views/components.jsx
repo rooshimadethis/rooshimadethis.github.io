@@ -7,10 +7,24 @@ const componentsStyle = {
         textAlign: "left"
     },
     title: {
-        fontSize: "4.2rem",
+        fontSize: "5.5rem",
         fontWeight: "600",
-        display: "inline-block",
-        position: "relative"
+        display: "block",
+        position: "fixed",
+        top: "20%",
+        left: "50%",
+        transform: "translate(-50%, -50%)",
+
+    },
+    superTitle: {
+        fontSize: "10rem",
+        fontWeight: "600",
+        display: "block",
+        position: "fixed",
+        top: "32%",
+        left: "50%",
+        transform: "translate(-50%, -50%)",
+
     },
     subtitle: {
         fontSize: "1.313rem",

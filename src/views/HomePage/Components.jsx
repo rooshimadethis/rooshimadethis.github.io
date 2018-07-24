@@ -8,8 +8,11 @@ import withStyles from "@material-ui/core/styles/withStyles";
 // @material-ui/icons
 // core components
 import Header from "components/Header/Header.jsx";
+import GridContainer from "components/Grid/GridContainer.jsx";
 import GridItem from "components/Grid/GridItem.jsx";
 import Button from "components/CustomButtons/Button.jsx";
+import Parallax from "components/Parallax/Parallax.jsx";
+
 // sections for this page
 import HeaderLinks from "components/Header/HeaderLinks.jsx";
 
@@ -22,7 +25,6 @@ class Components extends React.Component {
         return (
             <div>
                 <Header
-                    brand={"Material Kit React"}
                     rightLinks={<HeaderLinks />}
                     fixed
                     color={"transparent"}
@@ -32,6 +34,20 @@ class Components extends React.Component {
                     }}
                     {...rest}
                     />
+                <Parallax image={require("assets/img/gray.jpg")}>
+                    <div className={classes.container}>
+                        <GridContainer>
+                            <GridItem>
+                                <div className={classes.brand} align="left">
+                                    <h1 className={classes.title}>Welcome to</h1>
+                                    <h1 className={classes.superTitle}>rooshi.me</h1>
+                                    {/*<h3 className={classes.subtitle}>A sneak peak of who I am</h3>*/}
+                                </div>
+                            </GridItem>
+                        </GridContainer>
+                    </div>
+                </Parallax>
+
                 <div className={classNames(classes.main, classes.mainRaised)}>
                     <GridItem md={12} className={classes.textCenter}>
                         <Link to={"/login-page"} className={classes.link}>
