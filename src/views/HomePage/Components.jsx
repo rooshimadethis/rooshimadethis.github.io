@@ -6,6 +6,7 @@ import {Link} from "react-router-dom";
 // @material-ui/core components
 import withStyles from "@material-ui/core/styles/withStyles";
 // @material-ui/icons
+import Typography from '@material-ui/core/Typography';
 // core components
 import Header from "components/Header/Header.jsx";
 import GridContainer from "components/Grid/GridContainer.jsx";
@@ -39,8 +40,12 @@ class Components extends React.Component {
                         <GridContainer>
                             <GridItem>
                                 <div className={classes.brand} align="left">
-                                    <h1 className={classes.title}>Welcome to</h1>
-                                    <h1 className={classes.superTitle}>rooshi.me</h1>
+                                    {/*
+                                    <h1 className={classes.title}>Rooshi</h1>
+                                    <h1 className={classes.superTitle}>Made me</h1>
+                                    */}
+                                    <Typography className={classes.title} variant="display4" >Rooshi</Typography>
+                                    <Typography className={classes.superTitle} variant="display3" >made me</Typography>
                                     {/*<h3 className={classes.subtitle}>A sneak peak of who I am</h3>*/}
                                 </div>
                             </GridItem>

@@ -60,7 +60,7 @@ function HeaderLinks({ ...props }) {
             <ListItem className={classes.listItem}>
                 <Tooltip
                     id={"ig-twitter"}
-                    title={"Follow me on twitter"}
+                    title={"I retweet real good"}
                     placement={window.innerWidth > 959 ? "top" : "left"}
                     classes={{ tooltip: classes.tooltip }}
                 >
@@ -74,35 +74,50 @@ function HeaderLinks({ ...props }) {
                 </Tooltip>
             </ListItem>
             <ListItem className={classes.listItem}>
-                <Tooltip id={"ig-facebook"}
-                         title={"Follow me on facebook"}
+                <Tooltip id={"ig-github"}
+                         title={"Check my Github"}
                          placement={window.innerWidth > 959 ? "top": "left"}
                          classes={{ tooltip: classes.tooltip}}
                 >
                     <Button
                         color="transparent"
-                        href="https://www.facebook.com/CreativeTim"
+                        href="https://www.github.com/rooshimadethis"
                         target="_blank"
                         className={classes.navLink}
                     >
-                        <i className={classes.socialIcons + " fab fa-facebook"} />
+                        <i className={classes.socialIcons + " fab fa-github"} />
                     </Button>
                 </Tooltip>
             </ListItem>
             <ListItem className={classes.listItem}>
                 <Tooltip
-                    id="instagram-tooltip"
-                    title="Follow us on instagram"
+                    id={"ig-twitter"}
+                    title={"i read sometimes"}
                     placement={window.innerWidth > 959 ? "top" : "left"}
                     classes={{ tooltip: classes.tooltip }}
                 >
-                    <Button
-                        color="transparent"
-                        href="https://www.instagram.com/CreativeTimOfficial"
-                        target="_blank"
-                        className={classes.navLink}
+                    <Button href={"https://www.goodreads.com/user/show/46243641-rooshi-patidar"}
+                            target={"_blank"}
+                            color={"transparent"}
+                            className={classes.navLink}
                     >
-                        <i className={classes.socialIcons + " fab fa-instagram"} />
+                        <i className={classes.socialIcons + " fab fa-goodreads-g"} />
+                    </Button>
+                </Tooltip>
+            </ListItem>
+            <ListItem className={classes.listItem}>
+                <Tooltip
+                    id={"ig-twitter"}
+                    title={"some cool pics"}
+                    placement={window.innerWidth > 959 ? "top" : "left"}
+                    classes={{ tooltip: classes.tooltip }}
+                >
+                    <Button href={"https://500px.com/rooshipatidar"}
+                            target={"_blank"}
+                            color={"transparent"}
+                            className={classes.navLink}
+                    >
+                        <i className={classes.socialIcons + " fab fa-500px"} />
                     </Button>
                 </Tooltip>
             </ListItem>
