@@ -18,6 +18,13 @@ import Parallax from "components/Parallax/Parallax.jsx";
 import HeaderLinks from "components/Header/HeaderLinks.jsx";
 
 import componentsStyle from "assets/jss/material/views/components.jsx";
+import Grid from "@material-ui/core/Grid/Grid";
+import Paper from "@material-ui/core/Paper/Paper";
+import FormControl from "@material-ui/core/FormControl/FormControl";
+import FormLabel from "@material-ui/core/FormLabel/FormLabel";
+import RadioGroup from "@material-ui/core/RadioGroup/RadioGroup";
+import FormControlLabel from "@material-ui/core/FormControlLabel/FormControlLabel";
+import Radio from "@material-ui/core/Radio/Radio";
 
 
 class Components extends React.Component {
@@ -34,22 +41,38 @@ class Components extends React.Component {
                         color: "white"
                     }}
                     {...rest}
-                    />
-                <Parallax image={require("assets/img/gray.jpg")}>
+                />
+                <Parallax
+                    image={require("assets/img/cubes.jpg")}
+                    blur={10}
+                    bgImageAlt="the cat"
+                    strength={200}>
                     <div className={classes.container}>
                         <GridContainer>
                             <GridItem>
-                                <div className={classes.brand} align="left">
-                                    {/*
-                                    <h1 className={classes.title}>Rooshi</h1>
-                                    <h1 className={classes.superTitle}>Made me</h1>
-                                    */}
-                                    <Typography className={classes.title} variant="display4" >Rooshi</Typography>
-                                    <Typography className={classes.superTitle} variant="display3" >made me</Typography>
-                                    {/*<h3 className={classes.subtitle}>A sneak peak of who I am</h3>*/}
+                                <div className={classes.brand} >
+                                    <Typography className={classes.title} variant="display4" >Rooshi-made</Typography>
                                 </div>
                             </GridItem>
                         </GridContainer>
+                        <Grid item xs={12}>
+
+                            <Grid container justify={"center"}>
+                                <Grid item xs={3} sm={3}>
+                                    <Typography variant="display1" >Who I am</Typography>
+
+                                </Grid>
+                                <Grid item xs={6} sm={4}>
+                                    <Typography variant="display1" >What I've done</Typography>
+
+                                </Grid>
+                                <Grid item xs={6} sm={4}>
+                                    <Typography variant="display1" >What I think</Typography>
+
+                                </Grid>
+                            </Grid>
+
+                        </Grid>
                     </div>
                 </Parallax>
 
@@ -57,7 +80,23 @@ class Components extends React.Component {
                     <GridItem md={12} className={classes.textCenter}>
                         <Link to={"/login-page"} className={classes.link}>
                             <Button color="primary" size="lg" simple>
-                                View Login Page
+                                 <br /> <br />
+                                 <br /> <br />
+                                 <br /> <br />
+                                 <br /> <br /><br /> <br />
+                                 <br /> <br />
+                                 <br /> <br />
+                                 <br /> <br /><br /> <br />
+                                 <br /> <br />
+                                 <br /> <br />
+                                 <br /> <br /><br /> <br />
+                                 <br /> <br />
+                                 <br /> <br />
+                                 <br /> <br /><br /> <br />
+                                 <br /> <br />
+                                 <br /> <br />
+                                 <br /> <br />
+
                             </Button>
                         </Link>
                     </GridItem>
