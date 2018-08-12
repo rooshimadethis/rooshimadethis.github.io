@@ -19,12 +19,7 @@ import HeaderLinks from "components/Header/HeaderLinks.jsx";
 
 import componentsStyle from "assets/jss/material/views/components.jsx";
 import Grid from "@material-ui/core/Grid/Grid";
-import Paper from "@material-ui/core/Paper/Paper";
-import FormControl from "@material-ui/core/FormControl/FormControl";
-import FormLabel from "@material-ui/core/FormLabel/FormLabel";
-import RadioGroup from "@material-ui/core/RadioGroup/RadioGroup";
-import FormControlLabel from "@material-ui/core/FormControlLabel/FormControlLabel";
-import Radio from "@material-ui/core/Radio/Radio";
+
 
 
 class Components extends React.Component {
@@ -42,37 +37,29 @@ class Components extends React.Component {
                     }}
                     {...rest}
                 />
-                <Parallax
-                    image={require("assets/img/cubes.jpg")}
-                    blur={10}
-                    bgImageAlt="the cat"
-                    strength={200}>
+                <Parallax large image={require("assets/img/darkpaper.png")} >
                     <div className={classes.container}>
                         <GridContainer>
-                            <GridItem>
-                                <div className={classes.brand} >
-                                    <Typography className={classes.title} variant="display4" >Rooshi-made</Typography>
-                                </div>
+                            <GridItem xs={12} sm={12} md={10}>
+                                <Typography variant={"display4"} className={classes.title} gutterBottom>Rooshi-Made</Typography>
+                                <h4 className={classes.subtitle}>
+                                    Every landing page needs a small description after the big
+                                    bold title, that's why we added this text here. Add here all
+                                    the information that can make you or your product create the
+                                    first impression.
+                                </h4>
+                                <br />
+                                <Button
+                                    color="danger"
+                                    size="lg"
+                                    href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                >
+                                    <i className="fas fa-play" />Watch video
+                                </Button>
                             </GridItem>
                         </GridContainer>
-                        <Grid item xs={12}>
-
-                            <Grid container justify={"center"}>
-                                <Grid item xs={3} sm={3}>
-                                    <Typography variant="display1" >Who I am</Typography>
-
-                                </Grid>
-                                <Grid item xs={6} sm={4}>
-                                    <Typography variant="display1" >What I've done</Typography>
-
-                                </Grid>
-                                <Grid item xs={6} sm={4}>
-                                    <Typography variant="display1" >What I think</Typography>
-
-                                </Grid>
-                            </Grid>
-
-                        </Grid>
                     </div>
                 </Parallax>
 

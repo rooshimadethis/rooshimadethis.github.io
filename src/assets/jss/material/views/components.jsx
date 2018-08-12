@@ -9,18 +9,18 @@ const componentsStyle = {
     title: {
         //fontSize: "7rem",
         //fontWeight: "600",
-        display: "block",
-        position: "fixed",
-        top: "40%",
-        left: "50%",
-        transform: "translate(-50%, -50%)",
-        cursor: "default",
+        //fontSize: "4.2rem",
+        //fontWeight: "1",
+        display: "inline-block",
+        position: "relative",
         //fontstyle: "light"
+        color: "white"
     },
     subtitle: {
         fontSize: "1.313rem",
         maxWidth: "500px",
-        margin: "10px 0 0"
+        margin: "10px 0 0",
+        color: "white"
     },
     main: {
         background: "#FFFFFF",
