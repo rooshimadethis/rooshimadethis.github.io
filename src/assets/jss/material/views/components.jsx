@@ -8,12 +8,8 @@ const componentsStyle = {
     },
     title: {
         //fontSize: "7rem",
-        //fontWeight: "600",
-        //fontSize: "4.2rem",
-        //fontWeight: "1",
         display: "inline-block",
         position: "relative",
-        //fontstyle: "light"
         color: "white"
     },
     subtitle: {
@@ -38,6 +34,9 @@ const componentsStyle = {
     },
     textCenter: {
         textAlign: "center"
+    },
+    centered: {
+        display: "block",
     }
 };
 

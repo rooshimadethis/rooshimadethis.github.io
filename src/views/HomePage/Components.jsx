@@ -38,26 +38,46 @@ class Components extends React.Component {
                     {...rest}
                 />
                 <Parallax large image={require("assets/img/darkpaper.png")} >
-                    <div className={classes.container}>
-                        <GridContainer>
-                            <GridItem xs={12} sm={12} md={10}>
-                                <Typography variant={"display4"} className={classes.title} gutterBottom>Rooshi-Made</Typography>
-                                <h4 className={classes.subtitle}>
-                                    Every landing page needs a small description after the big
-                                    bold title, that's why we added this text here. Add here all
-                                    the information that can make you or your product create the
-                                    first impression.
-                                </h4>
+                    <div align={"center"} className={classes.container}>
+                        <GridContainer className={classes.centered}>
+                            <GridItem align={"center"} xs={12} sm={12} md={10}>
+                                <Typography variant={"display4"}  className={classes.title} gutterBottom>Rooshi-Made</Typography>
                                 <br />
-                                <Button
-                                    color="danger"
-                                    size="lg"
-                                    href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                >
-                                    <i className="fas fa-play" />Watch video
-                                </Button>
+                            </GridItem>
+                            <GridItem>
+                                <GridContainer className={classes.centered} >
+                                    <GridItem  xs={12} sm={12} md={10}>
+                                        <Button
+                                            color="danger"
+                                            size="lg"
+                                        >
+                                            <i className="far fa-smile" />Who am I?
+                                        </Button>
+                                    </GridItem>
+                                    <GridItem  xs={12} sm={12} md={10}>
+                                        <Link to={"/projects"} className={classes.link}>
+
+                                            <Button
+                                                color="danger"
+                                                size="lg"
+                                            >
+                                                <i className="far fa-gem" />See my Work
+                                            </Button>
+                                        </Link>
+
+                                    </GridItem>
+                                    <GridItem  xs={12} sm={12} md={10}>
+                                        <Link to={"/blog"} className={classes.link}>
+                                            <Button
+                                                color="danger"
+                                                size="lg"
+                                            >
+                                                <i className="far fa-comment" />Read my stuff
+                                            </Button>
+                                        </Link>
+
+                                    </GridItem>
+                                </GridContainer>
                             </GridItem>
                         </GridContainer>
                     </div>
@@ -67,22 +87,22 @@ class Components extends React.Component {
                     <GridItem md={12} className={classes.textCenter}>
                         <Link to={"/login-page"} className={classes.link}>
                             <Button color="primary" size="lg" simple>
-                                 <br /> <br />
-                                 <br /> <br />
-                                 <br /> <br />
-                                 <br /> <br /><br /> <br />
-                                 <br /> <br />
-                                 <br /> <br />
-                                 <br /> <br /><br /> <br />
-                                 <br /> <br />
-                                 <br /> <br />
-                                 <br /> <br /><br /> <br />
-                                 <br /> <br />
-                                 <br /> <br />
-                                 <br /> <br /><br /> <br />
-                                 <br /> <br />
-                                 <br /> <br />
-                                 <br /> <br />
+                                <br /> <br />
+                                <br /> <br />
+                                <br /> <br />
+                                <br /> <br /><br /> <br />
+                                <br /> <br />
+                                <br /> <br />
+                                <br /> <br /><br /> <br />
+                                <br /> <br />
+                                <br /> <br />
+                                <br /> <br /><br /> <br />
+                                <br /> <br />
+                                <br /> <br />
+                                <br /> <br /><br /> <br />
+                                <br /> <br />
+                                <br /> <br />
+                                <br /> <br />
 
                             </Button>
                         </Link>
