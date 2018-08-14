@@ -1,1 +1,0 @@
-A blog for me: [rooshi.me](http://rooshi.me)
