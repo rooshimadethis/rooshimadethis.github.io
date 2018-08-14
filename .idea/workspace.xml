@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01eb466e-1430-4bf4-87ff-b477f3168d9a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-08-14-welcome-to-jekyll.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-08-14-welcome-to-jekyll.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1227387238">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Gemfile" value="1" />
+          <entry key="env" value="1" />
+          <entry key="html" value="8" />
+          <entry key="jpg" value="4" />
+          <entry key="js" value="5" />
+          <entry key="json" value="3" />
+          <entry key="jsx" value="45" />
+          <entry key="lock" value="1" />
+          <entry key="markdown" value="1" />
+          <entry key="md" value="4" />
+          <entry key="png" value="1" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key=".env file" value="1" />
+          <entry key="HTML" value="8" />
+          <entry key="Image" value="5" />
+          <entry key="JSON" value="3" />
+          <entry key="JSX Harmony" value="45" />
+          <entry key="JavaScript" value="5" />
+          <entry key="Markdown" value="5" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="8" />
+          <entry key="json" value="16" />
+          <entry key="jsx" value="1338" />
+          <entry key="md" value="31" />
+          <entry key="yml" value="51" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="8" />
+          <entry key="JSON" value="16" />
+          <entry key="JSX Harmony" value="1338" />
+          <entry key="Markdown" value="31" />
+          <entry key="YAML" value="51" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="essence" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="839">
+              <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/analytics.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="115">
+                <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="805">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/author.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="391">
+                <caret line="17" selection-start-line="17" selection-end-line="17" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>logo.svg</find>
+      <find>bg4.jpg</find>
+      <find>classes</find>
+      <find>brand</find>
+      <find>requ</find>
+      <find>material kit reac</find>
+      <find>socialicons</find>
+      <find>twitter</find>
+      <find>parallax</find>
+      <find>img</find>
+      <find>upper</find>
+      <find>via rss</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CNAME" />
+        <option value="$PROJECT_DIR$/src/components/NavBar.js" />
+        <option value="$PROJECT_DIR$/src/components/CourseList.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/src/components/Header/Header.jsx" />
+        <option value="$PROJECT_DIR$/src/assets/jss/material.jsx" />
+        <option value="$PROJECT_DIR$/src/assets/jss/material/components/headerStyle.jsx" />
+        <option value="$PROJECT_DIR$/src/assets/jss/material/components/headerLinksStyle.jsx" />
+        <option value="$PROJECT_DIR$/src/assets/jss/tooltipStyle.jsx" />
+        <option value="$PROJECT_DIR$/src/components/CustomDropdown/CustomDropdown.jsx" />
+        <option value="$PROJECT_DIR$/src/assets/jss/material/components/customDropdownStyle.jsx" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/build/CNAME" />
+        <option value="$PROJECT_DIR$/src/assets/jss/material/components/parallaxStyle.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Parallax/Parallax.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Header/HeaderLinks.jsx" />
+        <option value="$PROJECT_DIR$/src/views/Blog/LandingPage.jsx" />
+        <option value="$PROJECT_DIR$/src/views/Blog/Sections/ProductSection.jsx" />
+        <option value="$PROJECT_DIR$/src/views/Blog/Sections/TeamSection.jsx" />
+        <option value="$PROJECT_DIR$/src/views/Projects/ProfilePage.jsx" />
+        <option value="$PROJECT_DIR$/src/assets/jss/material/views/profilePage.jsx" />
+        <option value="$PROJECT_DIR$/src/assets/jss/material/views/teamStyle.jsx" />
+        <option value="$PROJECT_DIR$/src/views/Blog/Sections/WorkSection.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Card/Card.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Card/CardBody.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Card/CardFooter.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Card/CardHeader.jsx" />
+        <option value="$PROJECT_DIR$/src/components/CustomInput/CustomInput.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Footer/Footer.jsx" />
+        <option value="$PROJECT_DIR$/src/components/InfoArea/InfoArea.jsx" />
+        <option value="$PROJECT_DIR$/src/components/NavPills/NavPills.jsx" />
+        <option value="$PROJECT_DIR$/src/routes/index.jsx" />
+        <option value="$PROJECT_DIR$/src/components/CustomButtons/Button.jsx" />
+        <option value="$PROJECT_DIR$/src/assets/jss/material/components/buttonStyle.jsx" />
+        <option value="$PROJECT_DIR$/src/assets/jss/material/views/components.jsx" />
+        <option value="$PROJECT_DIR$/src/views/HomePage/Components.jsx" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/_layouts/home.html" />
+        <option value="$PROJECT_DIR$/about.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/index.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1294" />
+    <option name="height" value="1407" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="essence" type="b2602c69:ProjectViewProjectNode" />
+              <item name="essence" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../web/jasper2-master" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_package_manager_path" value="C:/Program Files/nodejs/node_modules/npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents2\Github\essence\_includes" />
+      <recent name="D:\Documents2\Github\essence" />
+      <recent name="D:\Documents2\Github\essence\_posts" />
+      <recent name="D:\Documents2\Github\essence\_layouts" />
+      <recent name="D:\Documents2\Github\essence\src\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documents2\Github\essence\src\views\Blog" />
+      <recent name="D:\Documents2\Github\essence\src\views\Projects" />
+      <recent name="D:\Documents2\Github\essence\src\assets\jss\material" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.Unnamed">
+    <configuration name="Unbound" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="9229">
+      <method v="2">
+        <option name="LaunchBrowser.Before.Run" url="http://localhost:9229" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <arguments value="--scripts-prepend-node-path" />
+      <node-interpreter value="C:/Program Files/nodejs/node" />
+      <package-manager value="C:/Program Files/nodejs/node_modules/npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Node.js/Chrome.Unbound" />
+      <item itemvalue="npm.Unnamed" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01eb466e-1430-4bf4-87ff-b477f3168d9a" name="Default" comment="" />
+      <created>1532273401911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532273401911</updated>
+      <workItem from="1532273404004" duration="420000" />
+      <workItem from="1532273831810" duration="2595000" />
+      <workItem from="1532277224262" duration="944000" />
+      <workItem from="1532278179313" duration="417000" />
+      <workItem from="1532278612497" duration="75000" />
+      <workItem from="1532278711820" duration="2229000" />
+      <workItem from="1532290558292" duration="8000" />
+      <workItem from="1532290576875" duration="67000" />
+      <workItem from="1532290654196" duration="14552000" />
+      <workItem from="1532388618109" duration="5467000" />
+      <workItem from="1532395279926" duration="32000" />
+      <workItem from="1534083091051" duration="5409000" />
+      <workItem from="1534089126640" duration="12867000" />
+      <workItem from="1534276140626" duration="1221000" />
+      <workItem from="1534287306896" duration="2307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="48610000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1294" height="1407" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49882537" visible="true" weight="0.2969745" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5011746" side_tool="true" weight="0.16979656" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32967892" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3845446" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993808" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32914376" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32364494" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/build" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.env" />
+    <entry file="file://$PROJECT_DIR$/node_modules/react-parallax/dist/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/Parallax/Parallax.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/assets/jss/material/views/landingPage.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/assets/jss/material/views/workStyle.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/assets/jss/material-kit-react.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/assets/jss/material/imagesStyles.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/assets/jss/material/views/productStyle.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/assets/jss/material/views/profilePage.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/views/Projects/Projects.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/assets/jss/material/views/teamStyle.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/views/Blog/Sections/WorkSection.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/views/Blog/Sections/TeamSection.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/assets/jss/material/components/cardBodyStyle.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/components/Card/Card.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/components/Card/CardBody.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/components/Card/CardFooter.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/components/Card/CardHeader.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/components/CustomInput/CustomInput.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/assets/jss/material/components/customInputStyle.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/components/Footer/Footer.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/assets/jss/material/components/footerStyle.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/views/Blog/Sections/ProductSection.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/assets/jss/material/components/infoStyle.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/components/InfoArea/InfoArea.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/assets/jss/material/components/navPillsStyle.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/components/NavPills/NavPills.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/views/Blog/Blog.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/assets/jss/material/views/components.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/views/HomePage/Components.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/routes/index.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/components/CustomButtons/Button.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/assets/jss/material/components/buttonStyle.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/components/Grid/GridContainer.jsx" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-14-welcome-to-jekyll.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="53" column="59" selection-start-line="53" selection-start-column="59" selection-end-line="53" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/1863-11-19-gettysburg-address.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/author.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/infinitescroll.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="839">
+          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/site-nav.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/navigation.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/analytics.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="391">
+            <caret line="17" selection-start-line="17" selection-end-line="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="115">
+            <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

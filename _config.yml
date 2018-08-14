@@ -16,14 +16,31 @@
 title: Rooshi
 email: rooshipatidar@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A personal and professional (maybe) site for rooshidog
-baseurl: "" # the subpath of your site, e.g. /blog
+  A personal and professional (maybe) site for rooshdog
+baseurl: "/blog/" # the subpath of your site, e.g. /blog
 url: "http://rooshi.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rooshipatidar
 github_username:  rooshimadethis
+linkedin_username: rooshipatidar
+RSS: false
+
+# stealing of jasper
+cover: assets/images/blog-cover.jpg
+logo: assets/images/blog-icon.png
+logo_dark: assets/images/favicon.png
+favicon: assets/images/favicon.png
+#end stealing of jasper
+
+
+#tab color for PWA
+chrome-tab-theme-color: "#FFFFFF"
+
+#sidebar
+sidebar: true
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 theme: minima
 plugins:
   - jekyll-feed
