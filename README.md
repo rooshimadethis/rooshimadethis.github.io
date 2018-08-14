@@ -7,5 +7,5 @@ Currently the site is a React static site, but I'm currently transitioning to Je
 # Goals
 1. Have a smooth functional site to show off what work I've done, programming and otherwise, while also being able to host for free on Github Pages.
 2. Have a blog where I can post things at will and without the competitive nature of Medium including:
-  a. Movie and Music Album reviews
-  b. Writeups for the programming projects I have taken on
+  - Movie and Music Album reviews
+  - Writeups for the programming projects I have taken on
