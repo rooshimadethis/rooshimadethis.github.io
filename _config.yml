@@ -25,7 +25,7 @@ twitter: rooshipatidar # replace by your username
 facebook: rooshipatidar # replace by your username
 
 # Permalinks
-permalink: /:title
+#permalink: /:title
 # permalink: /author/:author
 # permalink: /tag/:tag
 
