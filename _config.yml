@@ -9,15 +9,15 @@ baseurl: "/"
 
 # Website info
 title: Rooshi
-description: Soap Box
-cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.ico
+description: The more the merrier
+cover: assets/images/logo1.png
+logo: assets/images/logo1.png
+logo_dark: assets/images/logo1.png
+favicon: assets/images/logo1.png
 
 # Social info
 navigation: True # show the navbar links
-subscribers: True # you need to connect an external service for this to work,
+# subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 twitter: rooshipatidar # replace by your username
@@ -38,7 +38,7 @@ feed:
   path: feed.xml
 
 # Additional settings available on the front-matter
-# Site logo in the index.html (as in demo.ghost.io)
+# Site logo in the index.html
 # Author's page cover in _layouts/author.html
 # The same for page.html and tag.html layouts
 # Post's page cover as a per-post basis _posts/...
