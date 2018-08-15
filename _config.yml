@@ -6,7 +6,7 @@ language: 'en-us'
 
 url: "http://rooshi.me/"
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: "/"
 
 # Website info
 title: Rooshi
