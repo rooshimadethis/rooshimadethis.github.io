@@ -6,7 +6,7 @@ language: 'en-us'
 
 url: "https://rooshi.me"
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: "/"
+baseurl: /
 
 # Website info
 title: Rooshi
@@ -58,7 +58,7 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
+username: rooshimademe
 repo: me
 branch: master
 production_url:  https://rooshi.me/
