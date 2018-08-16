@@ -1,9 +1,9 @@
 ---
 layout: page
 current: about
-title: Projects | Rooshi
+title: About
 navigation: true
-logo: 'assets/images/blog-icon.png'
+logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
 ---
