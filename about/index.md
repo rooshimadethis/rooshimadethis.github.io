@@ -3,7 +3,7 @@ layout: page
 current: about
 title: Projects | Rooshi
 navigation: true
-logo: 'assets/images/logo1.png'
+logo: 'assets/images/blog-icon.png'
 class: page-template
 subclass: 'post page'
 ---

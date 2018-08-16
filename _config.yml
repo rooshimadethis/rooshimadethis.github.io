@@ -91,3 +91,4 @@ exclude:
   - changelog.md
   - "*.Rmd"
   - .git*
+  - old*
