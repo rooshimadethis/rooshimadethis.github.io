@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> - Articles</title>
-    <description>All you need</description>
+    <description></description>
     <link>
-    http://localhost:4000</link>
+    </link>
     
       
       <item>
@@ -16,8 +16,8 @@
         
         <pubDate>Sat, 08 Sep 2018 10:00:00 +0000</pubDate>
         <link>
-        http://localhost:4000/soapbox/GArch</link>
-        <guid isPermaLink="true">http://localhost:4000/soapbox/GArch</guid>
+        /soapbox/GArch</link>
+        <guid isPermaLink="true">/soapbox/GArch</guid>
       </item>
       
     
@@ -31,8 +31,8 @@
         
         <pubDate>Thu, 27 Jul 2017 10:00:00 +0000</pubDate>
         <link>
-        http://localhost:4000/soapbox/welcome</link>
-        <guid isPermaLink="true">http://localhost:4000/soapbox/welcome</guid>
+        /soapbox/welcome</link>
+        <guid isPermaLink="true">/soapbox/welcome</guid>
       </item>
       
     

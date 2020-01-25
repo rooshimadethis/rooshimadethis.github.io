@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-09T14:50:42-05:00</updated><id>http://localhost:4000/</id><title type="html">Rooshi</title><subtitle>All you need</subtitle><entry><title type="html">G-Arch</title><link href="http://localhost:4000/soapbox/GArch" rel="alternate" type="text/html" title="G-Arch" /><published>2018-09-08T05:00:00-05:00</published><updated>2018-09-08T05:00:00-05:00</updated><id>http://localhost:4000/soapbox/GArch</id><content type="html" xml:base="http://localhost:4000/soapbox/GArch">&lt;h1 id=&quot;g-arch-gmail-archiver&quot;&gt;G-Arch, Gmail Archiver&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-01-24T20:43:48-06:00</updated><id>/</id><title type="html">rooooooshi</title><entry><title type="html">G-Arch</title><link href="/soapbox/GArch" rel="alternate" type="text/html" title="G-Arch" /><published>2018-09-08T05:00:00-05:00</published><updated>2018-09-08T05:00:00-05:00</updated><id>/soapbox/GArch</id><content type="html" xml:base="/soapbox/GArch">&lt;h1 id=&quot;g-arch-gmail-archiver&quot;&gt;G-Arch, Gmail Archiver&lt;/h1&gt;
 
 &lt;hr /&gt;
 
@@ -99,7 +99,7 @@ And last but not least is the option to change your options even after you’ve 
 
 &lt;h2 id=&quot;what-i-wouldve-changed&quot;&gt;What I would’ve changed&lt;/h2&gt;
 
-&lt;p&gt;I definitely did not figure out the purpose of Maven and Gradle by the time I was writing this program and now the most embarrassing part of having my code public on &lt;a href=&quot;https://github.com/rooshimadethis/Email-Sorter/tree/master/APIs&quot;&gt;github&lt;/a&gt; is that I actually have the downloaded jar files as a folder in the project called APIs.&lt;/p&gt;</content><author><name>Rooshi Patidar</name></author><category term="personal-projects" /><summary type="html">G-Arch, Gmail Archiver</summary></entry><entry><title type="html">Welcome</title><link href="http://localhost:4000/soapbox/welcome" rel="alternate" type="text/html" title="Welcome" /><published>2017-07-27T05:00:00-05:00</published><updated>2017-07-27T05:00:00-05:00</updated><id>http://localhost:4000/soapbox/welcome</id><content type="html" xml:base="http://localhost:4000/soapbox/welcome">&lt;h2 id=&quot;pssst-scroll-down-a-bit&quot;&gt;Pssst! Scroll down a bit!&lt;/h2&gt;
+&lt;p&gt;I definitely did not figure out the purpose of Maven and Gradle by the time I was writing this program and now the most embarrassing part of having my code public on &lt;a href=&quot;https://github.com/rooshimadethis/Email-Sorter/tree/master/APIs&quot;&gt;github&lt;/a&gt; is that I actually have the downloaded jar files as a folder in the project called APIs.&lt;/p&gt;</content><author><name>Rooshi Patidar</name></author><category term="personal-projects" /><summary type="html">G-Arch, Gmail Archiver</summary></entry><entry><title type="html">Welcome</title><link href="/soapbox/welcome" rel="alternate" type="text/html" title="Welcome" /><published>2017-07-27T05:00:00-05:00</published><updated>2017-07-27T05:00:00-05:00</updated><id>/soapbox/welcome</id><content type="html" xml:base="/soapbox/welcome">&lt;h2 id=&quot;pssst-scroll-down-a-bit&quot;&gt;Pssst! Scroll down a bit!&lt;/h2&gt;
 
 &lt;hr /&gt;
 
@@ -113,21 +113,8 @@ And last but not least is the option to change your options even after you’ve 
 
 &lt;h1 id=&quot;the-real-about-me-section&quot;&gt;The real ‘About me’ section&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/QVJFFy2z3upmRAGsmtifTbmJc1AMBvu-OTg9N2o59gtpyDAHi2lWn_U4_EPRz_yMp2oknbvKkiwEFtB0PbNjbGvs1ROcAzRQ2jsQfDh0x90gr0jpEZwlklk1SER0gGUyDkjmYvq-CS5a9ioB47tphbMy0phcktasdD8xclSn5_qq8vQwMcWexfRMHz5L0rB7UwVPwHYUS7BRAt-iwAL5o2R8u_87MFgv7YJmRTfVg9fBRWy7Lc4GWkZWTch66_66GFmJpiORepuwYII-MVCty3AYWytVTIdVrNcNrH5Lhah1Vb5nLJUl3-ehMr9we3A3hHehqGgKxDNJwOlYCyYA9LkPcjTzsrRFSxNhFhgg6Mgy3ZWRRFkunTaggekNLVgginOBMlGln-m_s-JerQ9LK6tJszNwOoyS6Vs78IKctNnk-yYgUq5U5S6VAFs7JaRz4rFIamHfj0Wp4ijcq5j2jKGon8PZVBa2ljNe4LfUrfRI05wzE8WpOIIyjInIIyP7sNkfX0l-iQfr8SWzM6pqZ9UcXXJkfJncjaPX8gRmzfqqBgAczDPXFtlfnlCe-6LFVDrXvQAsQ6XrPHFIF8UF1WInUdP_udE3PYSgxIT_=w600-h800-no&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;!--![](/assets/images/rooshicover.jpg)--&gt;
+&lt;p&gt;Currently, I’m an Electrical and Computer Engineering and Marketing double major student at The University of Texas at Austin. I’ve created this website as somewhere to post my own thoughts on anything including movie and book reviews, and writeups of personal projects I’m working on.&lt;/p&gt;
 
-&lt;p&gt;Currently, I’m an Electrical and Computer Engineering and Business double major student at The University of Texas at Austin. I’ve created this website as somewhere to post my own thoughts on anything including movie and book reviews, and writeups of personal projects I’m working on.&lt;/p&gt;
-
-&lt;p&gt;This site was created late August 2018 so the content right now is limited but I’m trying to write at least 1 or 2 articles a month.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/HKaWiBwunEoBOExJtMCWCJEBn6FOsJi_UEHCby6Huk0Q85XOt1PzZUOjq6lQ1er8XLpPvDilxfxxuQHKqfaEUlmffj5A-n3gsNQvZhMAA-1-tGYFRnHKJ12J1Es-1WzxTnciAHcMaOm6LfcOO7a9qFq-BMQRrzpOIaODRSzvLEpk0wYwZcuAlXnW6KB4aa4Gi_g4zR4YJNSu3a8KX6wmuYrFj1uocBLo0_2W7jgWGh67AWin4xbBb5lSW_gn8QQLY3u_cCBimx_rlb9wHYZq73z-TEVTKP09dg2JWwXq9KJ4NvakF1swVoX9fEpob-FIuZ-AzlgFSdzGOJPyiRTZaHbAXYu1Qceo1kSZftiCr4-Rn4jYld9SW9jbDdGNPfJ2NTiioZmHn7A-ROIoZy4A6yAVzTr5d3ROJLnXCxRK8kRhLWhKrq-XnBHijBQME1egG77kc0VvtI4ZvLDBGtnei0y4AsLXfEnuiwdV4RM7459-xryCv2Bt7QVfgNz45EOtNCgMawoniWADaXeIuaElKqh6pCUvAaBU_PIwZlXhByTVKf2-UTOKt7JS89ltWBD2o4Z02TgahAiu4nMe0eY47EfeOawg-nGIkJhmdaci=w1889-h1254-no&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Next steps for the site:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;SEO for articles&lt;/li&gt;
-  &lt;li&gt;Enable commenting on posts&lt;/li&gt;
-  &lt;li&gt;Add new authors to the page&lt;/li&gt;
-  &lt;li&gt;Further aesthetic improvements&lt;/li&gt;
-  &lt;li&gt;My best photos wall&lt;/li&gt;
-  &lt;li&gt;Contact me page/resume link&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Rooshi Patidar</name></author><category term="home" /><summary type="html">Pssst! Scroll down a bit!</summary></entry></feed>
+&lt;p&gt;This website will always be a work-in-progress and even though it’s on the internet, it’s mainly for me.
+&lt;img src=&quot;/assets/images/Welcome.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>Rooshi Patidar</name></author><category term="home" /><summary type="html">Pssst! Scroll down a bit!</summary></entry></feed>
