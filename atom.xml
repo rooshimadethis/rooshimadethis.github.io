@@ -8,6 +8,21 @@
     
       
       <item>
+        <title>the unflattering pics of people i love</title>
+        
+          <description>&lt;p&gt;I’ve taken more pictures in my last 4 months abroad than I have the entire rest of my life. So many great memories that will be forgotten about or shared to a select group chat, but never posted to social media. It’s a shame that only the top 1% of 1% of photos get chosen for that honor, but that’s the way social media is. Therefore, here, in the most anti-social media platform possible, Rooshi’s Blog, I will post unflattering pictures of the people I love and the memories I will never forget.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 29 Jan 2020 10:29:00 +0000</pubDate>
+        <link>
+        http://localhost:4000/blog/my-unflattering-friends</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/my-unflattering-friends</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>G-Arch</title>
         
           <description>&lt;h1 id=&quot;g-arch-gmail-archiver&quot;&gt;G-Arch, Gmail Archiver&lt;/h1&gt;
@@ -33,21 +48,6 @@
         <link>
         http://localhost:4000/blog/welcome</link>
         <guid isPermaLink="true">http://localhost:4000/blog/welcome</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Gettysburg Address</title>
-        
-          <description>&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Thu, 19 Nov 1863 10:18:00 +0000</pubDate>
-        <link>
-        http://localhost:4000/blog/gettysburg-address</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/gettysburg-address</guid>
       </item>
       
     
