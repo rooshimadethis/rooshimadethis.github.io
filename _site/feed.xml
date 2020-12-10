@@ -1,4 +1,61 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-12-09T20:27:12-06:00</updated><id>/</id><title type="html">rooshi</title><entry><title type="html">The Problem with Social Media</title><link href="/blog/the-problem-with-social-media" rel="alternate" type="text/html" title="The Problem with Social Media" /><published>2020-12-02T15:31:00-06:00</published><updated>2020-12-02T15:31:00-06:00</updated><id>/blog/the-problem-with-social-media</id><content type="html" xml:base="/blog/the-problem-with-social-media">&lt;h1 id=&quot;the-problem-with-social-media&quot;&gt;The Problem with Social Media&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-12-09T21:27:51-06:00</updated><id>/</id><title type="html">rooshi</title><entry><title type="html">MB 2</title><link href="/blog/Microblog-2" rel="alternate" type="text/html" title="MB 2" /><published>2020-12-09T15:09:00-06:00</published><updated>2020-12-09T15:09:00-06:00</updated><id>/blog/Microblog-2</id><content type="html" xml:base="/blog/Microblog-2">&lt;h1 id=&quot;microblog-2-automation&quot;&gt;Microblog #2: Automation!&lt;/h1&gt;
+&lt;h3 id=&quot;by-rooshi-patidar&quot;&gt;By Rooshi Patidar&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;12/09/2020 9:09 pm&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;In a fit of manic energy after a pretty terrible few days of recovering from COVID, I made a couple of scripts to help with the updates and deployment I make to this blog. Previously, for even a small change I would have to open up my shell, build the site, go copy and paste all the built files into a separate repo, and then commit and push both working and prod repos. It doesn’t seem like too much but it is really a PITA with hummus and has really deterred me from working on this site because of the tedium of making updates.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The scripts are in Python. I don’t really like Python that much mostly due to my poor experience with it in my data science course, but there is very little setup and it is quick to implement what you want.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;from subprocess import check_output, Popen, PIPE
+from datetime import datetime
+
+#1. build the site
+buildCommands = &quot;cd D:/Documents2/web/me \n bundle exec jekyll build \n&quot;
+
+
+#2. copy everything in /me/_site
+#3. paste to /rooshimadethis.github.io (overwrite current files)
+sourceDirectory  = &quot;D:/Documents2/web/me/_site&quot;
+destinationDirectory = &quot;D:/Documents2/web/rooshimadethis.github.io&quot;
+cpCommand = &quot;Copy-item -Force -Recurse -Verbose &quot; + sourceDirectory + &quot; -Destination &quot; + destinationDirectory +&quot; \n&quot;
+
+
+#4. git add and commit both /me and /rooshimadethis/github.io with date and time as commit message
+time = datetime.now().strftime(&quot;%m/%d/%Y, %H:%M:%S&quot;) #current time for commit message
+meGitCommands = &quot;cd D:/Documents2/web/me \n git add . \n git commit -m \&quot;&quot; + time + &quot; \&quot; \n git push \n&quot;
+prodGitCommands = &quot;cd D:/Documents2/web/rooshimadethis.github.io \n git add . \n git commit -m \&quot;&quot; + time + &quot;\&quot; \n git push \n&quot;
+
+
+#execute
+commands = buildCommands + cpCommand + meGitCommands + prodGitCommands
+
+process = Popen( &quot;powershell.exe&quot;, shell=False, universal_newlines=True,
+                  stdin=PIPE, stdout=PIPE, stderr=PIPE )                             
+out, err = process.communicate( commands ) 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;So there ya go. Kind of cool stuff. It really speeds things up for me. Expect maybe a few percent more posts per week now.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;- I’m grateful for the recovery of myself and my family from this virus.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cover photo: Bender Bending Rodriguez and his mom. A parallel to this script and me.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>Rooshi Patidar</name></author><category term="microblog" /><summary type="html">Microblog #2: Automation! By Rooshi Patidar</summary></entry><entry><title type="html">The Problem with Social Media</title><link href="/blog/the-problem-with-social-media" rel="alternate" type="text/html" title="The Problem with Social Media" /><published>2020-12-02T15:31:00-06:00</published><updated>2020-12-02T15:31:00-06:00</updated><id>/blog/the-problem-with-social-media</id><content type="html" xml:base="/blog/the-problem-with-social-media">&lt;h1 id=&quot;the-problem-with-social-media&quot;&gt;The Problem with Social Media&lt;/h1&gt;
 &lt;h3 id=&quot;by-rooshi-patidar&quot;&gt;By Rooshi Patidar&lt;/h3&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -710,8 +767,6 @@ And last but not least is the option to change your options even after you’ve 
 
 &lt;hr /&gt;
 
-&lt;p&gt;test change&lt;/p&gt;
-
 &lt;h3 id=&quot;welcome-to-rooshime&quot;&gt;Welcome to &lt;strong&gt;&lt;em&gt;rooshi.me&lt;/em&gt;&lt;/strong&gt;!&lt;/h3&gt;
 
 &lt;h2 id=&quot;current-status&quot;&gt;Current Status:&lt;/h2&gt;
@@ -720,15 +775,17 @@ And last but not least is the option to change your options even after you’ve 
 
 &lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: Frisco, TX (Do not come over)&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Occupation&lt;/strong&gt;: Supah! Senior at UT&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Occupation&lt;/strong&gt;: Senior at UT&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;DMs&lt;/strong&gt;: open. I don’t got no social media anymore, but if you do want to talk to me email me at my first name and my last name @gmail.com. No punctuation in between, all lowercase.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DMs&lt;/strong&gt;: always open. I don’t got no social media anymore, but if you do want to talk to me email me at my first name and my last name @gmail.com. No punctuation in between, all lowercase.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;First name&lt;/strong&gt;: Rooshi&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Last name&lt;/strong&gt;: Patidar&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;MBTI&lt;/strong&gt;: INFP&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
