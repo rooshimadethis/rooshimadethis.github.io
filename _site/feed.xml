@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-12-09T20:27:12-06:00</updated><id>/</id><title type="html">rooshi</title><entry><title type="html">The Problem with Social Media</title><link href="/blog/the-problem-with-social-media" rel="alternate" type="text/html" title="The Problem with Social Media" /><published>2020-12-02T15:31:00-06:00</published><updated>2020-12-02T15:31:00-06:00</updated><id>/blog/the-problem-with-social-media</id><content type="html" xml:base="/blog/the-problem-with-social-media">&lt;h1 id=&quot;the-problem-with-social-media&quot;&gt;The Problem with Social Media&lt;/h1&gt;
+&lt;h3 id=&quot;by-rooshi-patidar&quot;&gt;By Rooshi Patidar&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Here is my final project for the Fall 2020 semester of MKT 360 Information and Analysis. I AM NOT A EXPERIENCED DATA ANALYST AND THERE IS A HIGH CHANCE I HAVE MESSED SOMETHING UP HERE. But please still take a look, you might appreciate my commentary or at least learn something from the sources I have linked. At the very least, you may start questioning your own (potentially toxic) relationship with social media which I highly encourage. But at the same time I do not blame you for skipping over this one. I’m not super confident in my writing and there is some stats jargon thrown about, so it might not be super captivating. I’ll let you know what grade I get on it when they’re released.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The college experience has changed unimaginably since the widespread adoption of internet-connected devices. Just over 20 years ago, college students took notes on paper (there was no other option),
+waited in line all day to register for classes in person, and used the school’s “facebook” (a real physical book with pictures and names of the students) to learn of their classmates. Now, 90% of 2-year-olds have the “moderate ability to use a tablet”[1]. These devices are changing us in a
+potentially profound way, and we need to figure out the effects of these devices if we are going to continue spending upwards of 11 hours a day on them[2].&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;First, a quick background on how many “free” services like Facebook, Instagram, or
+Google make money: they sell your attention. You are not paying outright for
+the “cool” services they provide, but they can show you advertisements. You might
+be thinking, “Oh, advertisements aren’t that bad,” and you would be right.
+Advertisements themselves aren’t that terrible*, but we only have 24 hours in a
+day, and a lot of multi-billion dollar companies want as much time as they can
+get from you. Therefore, every company now has to try their hardest to compete for
+your click. This aggressive competition, led by well-funded scientists and researchers,
+is creating a fight to give you the biggest dopamine hit so you will come back
+almost unconsciously to their products[3]. Do you know what else causes a large
+amount of dopamine to be released? Drugs. And drugs can lead to addiction.
+Now, this may seem like I’m jumping to conclusions, but it’s a very plausible
+hypothesis.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I have some data from the University of
+Texas at Austin, gathered through a
+survey administered in 2019, focusing on
+the social media and phone use of
+students. We can use some data analysis
+to look for insights regarding students’
+phone usage and unwanted behaviors. A
+worrying 46.6% of students believe that
+they are at least a little addicted to social
+media and, since this is self-reported, it is
+possible that there are individuals that
+may meet a scientific definition of
+addiction but do not feel like they are.
+That is a lot of students that recognize a
+problem concerning their relationship
+with the internet.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;According to the data, these addicted
+students are more likely to spend more
+time on social media and, as the
+students report higher levels of
+addiction, their feeling of being left out
+when they don’t have their phone
+increases (I will be referring to this
+phenomenon as the “Fear of Missing Out”
+or FOMO).&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;We see that those who strongly believe they are not addicted to their phones are 439%
+more likely than average to strongly not feel left out. We can see on the other end too
+that those who feel strongly addicted to social media feel 431% more likely to feel left
+out if they do not have their phones for a day. The charts below are a little bit clumsy,
+but we can see that the general trend towards more FOMO as individuals are more
+addicted.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/tpwsocial/SMFOMO.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Although it is likely that FOMO has always been a part of the human social experience, it
+seems that the widespread use of online socializing might have given us more to worry
+about. The constant interconnectedness and seeing everyone’s highlights can make your
+every day feel inadequate. There is always someone out of your 1000 “following” users
+doing something cool, but you and the other 998 people do not post the bad or
+mundane, so you compare yourself to one person’s high point. Over time, it seems less
+okay to be content with your current situation and you start trying to hang out with
+everyone and do new things to feel as cool as your social media friends. From this point,
+any time spent away from your phone is hurting your chances to do those cool things
+you need to do. However, since there is not much data from before our time, I cannot
+say if we are better or worse off now than before.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;This same sort of trend shows up with those who feel distracted from studying if their
+phone is nearby. Those who feel less addicted are also less likely to feel distracted by
+their phones.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/tpwsocial/SMDist.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;It seems that there are more effects related to addiction than just spending more time
+on an app than normal. There’s a chance an addiction could be changing your emotions
+and your behavior.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Another sign of our changing relationship with technology is the age at which many get
+their phone. More than half of these students at UT received their first smartphone
+before the age of 14 with 95.4% getting their phone before age 17. These ages are hugely
+influential on early brain development which includes the process of pruning and
+cementing some of the uncommon and common connections in the brain[5]. These
+students as teenagers could have been cementing some poor phone habits like
+reaching for the phone when in boring or uncomfortable situations, being trained to
+jump to the phone when they hear a notification sound, or getting distracted when they
+are supposed to be focusing on work.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;From our data, we can see that the students who received their phones at ages 10 or
+younger are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Much more likely to feel left out if they did not have their phone on them&lt;/li&gt;
+  &lt;li&gt;More likely to be distracted by their phones while studying&lt;/li&gt;
+  &lt;li&gt;More likely to prefer digital interactions instead of face-to-face&lt;/li&gt;
+  &lt;li&gt;More likely to present a different version of themselves online than in person and feel
+that everybody misrepresents themselves online&lt;/li&gt;
+  &lt;li&gt;Much less likely than average to agree or strongly agree that they are satisfied with
+their academic performance&lt;/li&gt;
+  &lt;li&gt;And much more likely to feel that it is okay for social media to be taking up most of
+their spare time&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;compared to those who received their phones from 11 to 16. These young adopters are
+also more likely to strongly agree with many of the negative effects like being distracted
+while studying while older adopters are more likely to agree more mildly. These are
+concerning discoveries. Giving your child a phone a couple of years early because you
+had one lying around the house may negatively affect children. The child’s whole idea of
+socializing may start to revolve around the internet which may end up causing adverse
+effects like being less able to distinguish nonverbal cues and body language, or having
+more shallow conversation and fewer deep connections, or even just ignoring those
+around you while you scroll through your phone aimlessly[6].&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Those who receive their smartphones after the age of 16 indicated that they are more
+likely to have some of these negative effects too. This may be attributed to these older
+adopters not being familiar with the way these technologies work and end up more
+influenced, or it may be that these users have a greater ability to self-reflect and
+recognize the effects of these devices. However, I cannot say with certainty what the
+cause of this trend is. The sample size we have of these individuals that received their
+phones at 17 or older is small so we would need to find more and see if this sample can
+represent the whole population. Also, surprisingly but not surprisingly, is that it is almost
+impossible to find students on campus who do not have a smartphone at all. Only 1
+person out of 2211 people surveyed did not have a smartphone. This is remarkable as the
+first iPhone was released only 13 years ago. It shows how fast the adoption of mobile
+technology is and how little time we have had to understand its effects.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now that we know which kinds of feelings and habits correlate with feeling addicted, is
+there any chance that certain demographics are more likely to be addicted than others?
+Using the data again, we can use linear regression to find out which personal attributes
+influence your likelihood of being addicted. The results show with high statistical
+confidence that those we feel more feminine (0.215 std. beta), extroverts (0.101 std. beta),
+and Asians (0.080 std. beta) are more likely to be addicted while College of Natural Science
+students (-0.078 std. beta), Engineering students (-0.096 std. beta) were a little more likely
+to be addicted. What is interesting is that those who chose “Other”† as their ethnicity are
+much less likely to be addicted (-0.146 std. beta) which is more important than being an
+extrovert, but less so than feeling feminine. Similar to our data, results from other studies
+show females are found to be more addicted[7], but other studies have shown different
+results regarding introversion and extraversion by saying it does not have a strong link to
+addiction[8]. Further studies and meta-analyses need to be done to be certain.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Some individuals may not feel comfortable saying they are addicted but show the same
+types of behaviors and thoughts as those that are. These people may actually be addicted
+in a sense but may deny it or misunderstand the concept of addiction. By building another
+regression model using behavior characteristics instead of just demographics, we could
+create a model that labels those that are addicted, even if they say they are not. The
+important characteristics from this new “behavior” model seem to be being distracted by
+their phones when studying (0.331), feeling left out when not having their phone (0.229),
+being okay with social media taking up most of their free time (0.187), portraying a different
+persona online than in person (0.171), and spending most of their time on constructive
+activities (-0.093, negative meaning a higher value of this characteristic means a lower
+likelihood of addiction).&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;These 5 variables explain 37.8% of the variance in the level of addiction (0.378 R-squared
+value). Out of those variables, I have a feeling that those being okay with social media
+being used during most of their free time might have a lower chance of admitting they are
+addicted. That is just my guess so let’s see what the data says.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I created the behavior regression using only a random half of the students. With the other
+half, I will create a score for each student. I then subtracted the predicted score to their
+real feelings on being addicted (I am gonna call the subtraction result the “diff”). Therefore,
+those with high positive diffs meant they were behaving like they were addicted, but were
+likely underestimating their addiction level. I created another regression model on these
+diffs to figure out what demographics or behaviors may account for the differences in the
+perception of being addicted. Unfortunately, with only a 4.2% explanation of the variance
+(0.042 R-square value), my findings are not very useful. Those okay with social media taking
+up their time (0.165 std. beta), introverts (0.111 std. beta), those who preferred face-to-face
+contact over digital (0.066 std. beta), those who felt more masculine (0.071), and those who
+felt distracted by their phones when studying (0.071 std. beta) all were more likely to
+understate their levels of addiction.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;However, regarding this previous process of trying to figure out who is “lying” about not
+being addicted, I understand it does not make sense to create the initial regression
+targeting the variable of “I feel addicted to Social Media” because then the model will
+inherently include the bias of those who act addicted but do not report it. Because we do
+not have an “absolute truth” regarding the nature of addiction or a definition of social
+media addiction for this data, I could not find a way to extract those who were addicted
+and those who were not. For example, in fraud detection at a bank, the bank most likely
+would have a list of transactions labeled as “fraud” and “legitimate” based on results from
+an investigation or call to the card user and then use that “true” data to find out if new
+transactions come up as fraudulent. But in our data, we have no objective or numerical
+truth like saying 5+ hours on a phone is addiction, we just have feelings and opinions from
+the students which are not consistent. Therefore, this finding may not be very useful or
+truthful at all.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I also want to see how the omnipresence of the internet has changed social relationships.
+We have some people in our data saying their online relationships are just as meaningful
+(maybe even more so) than their offline relationships. Some are okay with having a
+completely different persona online than in person. Maybe they feel more comfortable
+with the anonymity that the internet brings and they feel like they can be themselves
+instead of what they are “forced” to be in their real life. There is a study that backs up my
+postulating, saying the advantages of being anonymous include being able to be more
+honest and feel free when expressing opinions along with having more control over
+personal image and private information[9]. From our data, I calculated some Pearson
+correlations between some variables and found some obvious things like those who
+preferred digital interactions were mildly positively correlated with saying their “online-
+only” relationships are as important as their in-person relationships (0.273, Sig. ~= .000).
+Another interesting finding is that those who find meaning in their online-only
+relationships also are mildly positively correlated with portraying themselves differently
+online than face-to-face (0.129, Sig. ~= .000) and also positively correlates with preferring
+their digital interaction too (0.143, Sig. ~= .000). This might corroborate the story I
+suggested, saying that some of these students feel pressure in real life perhaps because of
+their appearance, race, or socioeconomic status, but online, they can be who they want to
+be and find friends that accept them more than they can find in person.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mental health is of course important to many people, but most of these students are
+experiencing some kind of cognitive dissonance when it comes to using their phones. An
+overwhelming majority (91.8%) of the students in the survey at least somewhat agreed that
+taking care of mental health is a high priority and about two-thirds were not okay with
+social media taking up most of their spare time. However, 52.9% feel at least a bit guilty
+about how much time they spend on social media, and 46.6% outright said they felt some
+level of addiction. What they are saying and what they are doing is not lining up. It seems
+though that many students are open to the idea of taking care of themselves, they may
+not be able to actually decrease their social media use. Most of them might not even
+realize that social media addiction is a real problem and could be dismissing it since it has
+no “obvious” effects on their lives. This is a problem that so many of our young people are
+struggling with and could lead to long term consequences if not properly communicated.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;We need to be asking harder questions regarding the age we are giving our children these
+devices and if the negative effects are really worth the benefits. I deleted all my social
+media in September and saying this to someone else leads to looks of apathy, mockery, or
+even amusement. Many see it as an impossible option, reverting life back to the stone
+ages, but why? Many people, including me, can barely remember what we did with our
+free time before phones sucking up the small moments in between the big events of our
+life. I have asked so many people what their hobbies are but I am getting a sad amount of
+“I don’t really have any”s. I do not think we are living life as fully as we can because end up
+consuming content for happiness instead of finding real meaning. It seems though that as
+long as marketers and young people define being “cool” as showing off to strangers on the
+internet, the prevalence of social media will not really go away while it continues to use up
+a lot of our time on this earth with very few real benefits.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;*They kind of are with the unrealistic expectations
+they project, the general unhappiness they cause,
+and occasionally outright deceptive practices[4]. But
+that is a story for another time.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;†”Other” ethnicity means they do not identify as White, Black or African American, Hispanic, Asian, or “Two or
+more”. This was actually a sizable group of about 12.5% of all students which was almost 3.5 times more people
+than Black or African American students in our survey.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;R E F E R E N C E S&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;[1] https://now.uiowa.edu/2015/06/how-do-toddlers-use-tablets&lt;/p&gt;
+
+&lt;p&gt;[2] https://www.nielsen.com/us/en/insights/article/2018/time-flies-us-adults-now-spend-
+nearly-half-a-day-interacting-with-media/&lt;/p&gt;
+
+&lt;p&gt;[3] http://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/&lt;/p&gt;
+
+&lt;p&gt;[4] https://hbr.org/2020/01/advertising-makes-us-unhappy&lt;/p&gt;
+
+&lt;p&gt;[5] https://raisingchildren.net.au/pre-teens/development/understanding-your-pre-
+teen/brain-development-teens&lt;/p&gt;
+
+&lt;p&gt;[6] https://psychminds.com/communication-online-vs-face-to-face-interactions/&lt;/p&gt;
+
+&lt;p&gt;[7] https://www.sciencedirect.com/science/article/abs/pii/S0306460316301095&lt;/p&gt;
+
+&lt;p&gt;[8] https://www.sciencedirect.com/science/article/abs/pii/S0306460319306525&lt;/p&gt;
+
+&lt;p&gt;[9] https://www.cs.cmu.edu/~xia/resources/Documents/kang-chi13.pdf&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Photo Credit: &lt;a href=&quot;http://murugiah.com/&quot;&gt;&lt;em&gt;Sharmelan Murugiah&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Rooshi Patidar</name></author><category term="soapbox" /><summary type="html">The Problem with Social Media By Rooshi Patidar</summary></entry><entry><title type="html">MB 1</title><link href="/blog/Microblog-1" rel="alternate" type="text/html" title="MB 1" /><published>2020-11-29T13:29:00-06:00</published><updated>2020-11-29T13:29:00-06:00</updated><id>/blog/Microblog-1</id><content type="html" xml:base="/blog/Microblog-1">&lt;h1 id=&quot;microblog-1-whats-the-point&quot;&gt;Microblog #1: What’s the point?&lt;/h1&gt;
+&lt;h3 id=&quot;by-rooshi-patidar&quot;&gt;By Rooshi Patidar&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;11/29/2020 7:29 pm&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;I’m doing my final project right now for MKT 360 Information and Analysis. It’s about students’ use of social media and the kinds of effects it has like inducing FOMO, distraction while studying, and outright addiction. It got me thinking: imagine spending 2 hours a day on Instagram, 1 on Twitter, and maybe a half hour on Facebook. That a solid 3.5 hours a day looking at your phone on some type of passive social media. It seems like a lot but that’s just a few bathroom breaks, scrolling for a bit in bed, and going on while you’re supposed to be studying or working or exercising. Those 3.5 hours a day become an ludicrous 1277.5 hours a year of literally just scrolling apathetically through pictures and content. Let’s say you use social media for 60 years from 14 years old to maybe 74 (stopping right before virtual reality is plugged straight to the brain in your retirement home). That’s 8.75 YEARS of those 60, that you spent just looking at this tiny screen in your palm where the content either is an ad for a shitty or fake product or a picture from someone you talked to a handful of times making you feel bad because they are wildly successful. Can you name me one concrete benefit you have received from social media that you could not get from just texting or calling someone? Is it really worth giving up 8.75 years of your life for that?&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Please email me your thoughts, we can have a conversation, and maybe I can post a condensed version of it on here.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;In an effort to end on a high note, I’m gonna end each entry with at least one thing I’m grateful for :).
+ - I’m grateful for the better than expected progress on my school projects (which is allowing me to take a break and write this post instead 😊)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Picture credit: PT by 7780s Studio. The never ending hallway.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>Rooshi Patidar</name></author><category term="microblog" /><summary type="html">Microblog #1: What’s the point? By Rooshi Patidar</summary></entry><entry><title type="html">The Problem with Goodreads</title><link href="/blog/Goodreads" rel="alternate" type="text/html" title="The Problem with Goodreads" /><published>2020-07-30T05:00:00-05:00</published><updated>2020-07-30T05:00:00-05:00</updated><id>/blog/Goodreads</id><content type="html" xml:base="/blog/Goodreads">&lt;h1 id=&quot;the-problem-with-goodreads&quot;&gt;The Problem with Goodreads&lt;/h1&gt;
+&lt;h3 id=&quot;by-rooshi-patidar&quot;&gt;By Rooshi Patidar&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt; You might think of &lt;a href=&quot;https://www.goodreads.com&quot;&gt;Goodreads.com&lt;/a&gt; as a kind of anti-social social media. A low-key website with not too many users and a strange place where most people don’t even have a profile picture. It would seem like a safe haven where nerds can nerd out and geeks can geek it up. However, the result of having your books statistically tracked and judged by your friends takes a lot of enjoyment out of reading (to be fair, no one really cares, but you feel like they do).&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;its-a-numbers-game&quot;&gt;It’s a numbers game&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt; Every social media platform manipulates you with numbers. Twitter has retweets, Instagram with likes, Goodreads with the number on your “Read” shelf. The urge to add books to your “Read” shelf is fierce and when you do move a doorstopper of a book to it, it’s almost intoxicating. You can almost feel your IQ and friend’s respect for you go up. But then you realize you just read 6 100-page “Young Adult” books written at an 8th-grade level instead of any of the thoughtful novels you should have read.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt; If you’re an active on the site, then you’ll feel pretty good about yourself with your 100 read books while your friends have like 8. You’ll really feel like the man until you spot another active. A threat. You see they have over 350 books on their profile. That’s like 100 more than you do. You suddenly feel your coolness factor dropping. You click on their profile picture and see…..75 read and 275 to-read…&lt;strong&gt;HAHAHAHA&lt;/strong&gt;. “What an absolute chump!” you say out loud to yourself. Your self-worth rises back to previous levels and maybe even a little bit higher. See these numbers become a sort of competition between you and others when it shouldn’t.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt; The yearly reading challenge is another tool by the sly devils at Goodreads. You think the challenge will hold you accountable and is just friendly competition with yourself, but it goes one of 2 ways:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;You are like the 85%† of people on Goodreads and literally do not read more than 2 books this year. You come back next year with an “oh shittt” feeling and remember that reading was one of the options you could have spend your 5840 waking hours on last year. You are disappointed in yourself and don’t even bother next year.&lt;/li&gt;
+  &lt;li&gt;You maybe get 2/3rds of the way through a nice, long novel, put it away for a while, come back in a few months, and are now 2 books behind your challenge. So what do you do? You choose the quickest reads you can find to bring those numbers up. Over 200 pages? Fuck that. You end up hitting your challenge, but there is a slight empty feeling inside of you.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;fixes&quot;&gt;Fixes&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Don’t do the reading challenge.&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Starting to read again is a valiant effort that shouldn’t result in you feeling like garbage because you only read 5 novels instead of the 15 you were expecting. You should be happy that you got through some novels you probably really enjoyed. You’ll end up becoming more and more consistent and will enjoy reading again like when you were younger.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Don’t add books to your “Currently Reading” shelf.&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Moving a book into your currently reading shelf feels like signing a contract with the reading devil. Your friends see that you are starting &lt;em&gt;Infinite Jest&lt;/em&gt; by David Foster Wallace. “Wow!” they say. You now feel obligated to finish it. Giving up and moving it back to the “read” shelf feels like failure. You grind through it, enjoying perhaps 1 paragraph every page. After months on reading maybe a couple pages a day, you move it to your “read” shelf and then don’t pick a book for the rest of the year.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt; That last point was obviously an exaggeration, but sometimes people forget that reading can be &lt;strong&gt;really&lt;/strong&gt; enjoyable. Getting so caught up in a story that I read on my walk to school and even the bathroom is a very rare and greatly satisfying experience. It’s okay to stop reading a book halfway if you don’t enjoy it; that particular book is probably not for you. Just move on to the next one and hopefully, it can give you the enthralling feeling that is so addicting.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt; The moving on part is so much easier if you don’t have a set number of books to read that year. Try some out like you would try clothes or a TV show. Just a few dozen pages. Does the language not vibe with you? Are the subject or characters insufferable? Put it down and try something new. You might think “oh but what if it turns out to be my favorite book ever?”. There are literally millions of books so through probability we can deduce it is likely not. There could be a book out there where you love each word with all your heart.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;In conclusion&lt;/em&gt;, Life is too short to not read the books that you enjoy.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;But still, there’s a very low chance I will stop using Goodreads. Add me as a friend: &lt;a href=&quot;https://www.goodreads.com/user/show/46243641-rooshi&quot;&gt;My Goodreads profile&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;† I made this statistic up obviously, but check yourself and see how many of your friends completed any substantial portion of their challenge. Most people don’t even log in for a few years at a time.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;* This post is not really serious. I just wanted to start writing something and this is what came to mind. I do not want to seem pretentious in the sense of “Oh yeah, of course I read I’m smart, and you don’t so you must be dumb”. If you look at the books I read, they are just YA fiction, Sci-fi, and some self-help books (you could probably learn a lot about me by my choice in non-fiction) so nothing even that heavy. My grammar is probably off too, but life is too short for perfect grammar :)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>Rooshi Patidar</name></author><category term="soapbox" /><summary type="html">The Problem with Goodreads By Rooshi Patidar</summary></entry><entry><title type="html">the unflattering pics of people i love</title><link href="/blog/my-unflattering-friends" rel="alternate" type="text/html" title="the unflattering pics of people i love" /><published>2020-01-29T04:29:00-06:00</published><updated>2020-01-29T04:29:00-06:00</updated><id>/blog/my-unflattering-friends</id><content type="html" xml:base="/blog/my-unflattering-friends">&lt;h3 id=&quot;by-rooshi-patidar&quot;&gt;By Rooshi Patidar&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;    I’ve taken more pictures in my last 4 months abroad than I have the entire rest of my life.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+    So many great memories that will be forgotten about or shared to a select group chat, but never posted to social media. It’s a shame that only the top 1% of 1% of photos get chosen for that honor, but that’s the way social media is. Therefore, here, in the most anti-social media platform possible, Rooshi’s Blog, I will post unflattering pictures of the people I love and the memories I will never forget.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+(One thing though, I realized I love “live photos” because they really give you a sense of the vibe, so there are going to be a lot of gifs on this page.)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+(Disclaimer: some of these pics might not be unflattering so please do not write me)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;video autoplay=&quot;true&quot; muted=&quot;true&quot; loop=&quot;true&quot;&gt;
+    &lt;source src=&quot;/assets/images/unflattering/uf2.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;goofy pose pictures are even better when not everyone knows&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;&lt;em&gt;Victoria Harbour, Tsim Sha Tsui, Hong Kong&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/images/unflattering/uf5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;that splinter was in my finger and it took the surgical skills of mubi to take it out in the back of a green bus&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;&lt;em&gt;Dragon’s Back -&amp;gt; Big Wave Beach, Shek O, Hong Kong&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/images/studyabroadcover.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;not even unflattering, just some cool people&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;&lt;em&gt;Outside Seafront restaurant, HKUST, Hong Kong&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/images/unflattering/uf6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;uhhhh&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;&lt;em&gt;National Museum of Modern and Contemporary Art, Seoul, South Korea&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/images/unflattering/uf7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;michael myers style skincare&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;&lt;em&gt;Hongdae, Seoul, South Korea&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt; &lt;img src=&quot;/assets/images/unflattering/uf8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;outfit of the day&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;&lt;em&gt;Gyeongbokgung Palace, Seoul, South Korea&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;video autoplay=&quot;true&quot; muted=&quot;true&quot; loop=&quot;true&quot;&gt;
+    &lt;source src=&quot;/assets/images/unflattering/uf9.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;the resemblance is uncanny&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;&lt;em&gt;Hongdae, Seoul, South Korea&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/images/unflattering/uf10.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;sensual&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;&lt;em&gt;Gaya Street, Kota Kinabalu, Malaysia&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/images/unflattering/uf12.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;the squintiest selfie&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;&lt;em&gt;Off the coast of Oslob, Cebu, Philippines&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/images/unflattering/uf13.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;there was a lot of sleeping on all these trips&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;&lt;em&gt;Cebu -&amp;gt; Panglao, Philippines&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;video autoplay=&quot;true&quot; muted=&quot;true&quot; loop=&quot;true&quot;&gt;
+    &lt;source src=&quot;/assets/images/unflattering/uf17.MP4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;a LOT of sleeping&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;&lt;em&gt;Moalboal -&amp;gt; Oslob, Cebu, Philippines&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;video autoplay=&quot;true&quot; muted=&quot;true&quot; loop=&quot;true&quot;&gt;
+    &lt;source src=&quot;/assets/images/unflattering/uf16.MP4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;for some reason mubi looks like this when she sleeps&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;&lt;em&gt;Moalboal -&amp;gt; Oslob, Cebu, Philippines&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;video autoplay=&quot;true&quot; muted=&quot;true&quot; loop=&quot;true&quot;&gt;
+    &lt;source src=&quot;/assets/images/unflattering/uf27.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;mubi sleeps a lot too&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;&lt;em&gt;HKG -&amp;gt; HAN&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/images/unflattering/uf14.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;oh you fancy huh&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;&lt;em&gt;Chocolate Hills, Bohol, Philippines&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/images/unflattering/uf18.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;candid&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;&lt;em&gt;Boho Coco Farm, Bohol, Philippines&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/images/unflattering/uf19.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;this is how mubi sees herself all the time lmaoo&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;&lt;em&gt;Taito Game Station Shibuya, Tokyo, Japan&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/images/unflattering/uf20.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;taco baeeee&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;&lt;em&gt;Taco Bell Shibuya, Tokyo, Japan&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/images/unflattering/uf21.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;same energy as above but for raw fish now&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;&lt;em&gt;Tsukiji Fish Market, Tokyo, Japan&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/images/unflattering/uf23.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;renaissance&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;&lt;em&gt;Unknown izakaya in Shinjuku, Tokyo, Japan&lt;/em&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/images/unflattering/uf24.jpg&quot; alt=&quot;&quot; /&gt;
+trippy&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;&lt;em&gt;teamLab Borderless, Tokyo, Japan&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/images/unflattering/uf25.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;mubi obviously doesnt understand a simple ramen vending machine&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;&lt;em&gt;Ichiran Ramen, Tokyo, Japan&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/images/unflattering/uf28.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;they just vibin&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;&lt;em&gt;mipig café Harajuku, Tokyo, Japan&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;video autoplay=&quot;true&quot; muted=&quot;true&quot; loop=&quot;true&quot;&gt;
+    &lt;source src=&quot;/assets/images/unflattering/uf29.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;2 faces more beautiful than the sunset&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;&lt;em&gt;Halong Bay, Vietnam&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/images/unflattering/uf30.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;absolutely embarrassing&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;&lt;em&gt;Chiang Mai Night Market, Chiang Mai, Thailand&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>Rooshi Patidar</name></author><category term="gallery" /><summary type="html">By Rooshi Patidar</summary></entry><entry><title type="html">G-Arch</title><link href="/blog/GArch" rel="alternate" type="text/html" title="G-Arch" /><published>2018-09-08T05:00:00-05:00</published><updated>2018-09-08T05:00:00-05:00</updated><id>/blog/GArch</id><content type="html" xml:base="/blog/GArch">&lt;h1 id=&quot;g-arch-gmail-archiver&quot;&gt;G-Arch, Gmail Archiver&lt;/h1&gt;
+&lt;h3 id=&quot;by-rooshi-patidar&quot;&gt;By Rooshi Patidar&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;During the summer of 2017, I was led away from the usual hum-drum of video games and picking up shifts at Candy World. I was given the opportunity of working in a field I had never thought I would have the opportunity to, and the insights I gained into this new venture were priceless. I worked closely with the Lead Architect of PRP ARQ Inc. over the course of the summer and he confided in me, a few frustrations he had with everyone’s favorite e-mail service Gmail. Because of all of the files and emails sent back and forth between him and his “electric people” and “construction people” and others, his Outlook had slowed to a crawl and it was a pain to keep things organized. He said he wanted just to store some emails onto his hard drive because he would rarely need to use them again and then delete them from Outlook and Gmail.&lt;/p&gt;
+
+&lt;p&gt;With my software skills, I offered to create a desktop app where he could store the emails onto a local hard drive which he keeps with him at all times, and since he’s not the most technologically savvy guy, I mocked up a clean, easy-to-use UI and voilà G-Arch was born!&lt;/p&gt;
+
+&lt;h2 id=&quot;the-walkthrough&quot;&gt;The Walkthrough&lt;img src=&quot;https://i.imgur.com/TBeQ7n9.png&quot; alt=&quot;The startup view&quot; /&gt;&lt;/h2&gt;
+
+&lt;p&gt;Here’s the startup screen for the application. Very simple and guided.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/StOB1vc.png&quot; alt=&quot;Adding an account&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This shows up once you click “Add an Account” in a pop-up web browser.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/iQr5lhe.png&quot; alt=&quot;Account Permissions&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Very limited permissions needed for all of this.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/1lT5jhn.png&quot; alt=&quot;Save folder choice&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A directory selector for the folder you want the emails saved in.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/fQG0t7T.png&quot; alt=&quot;Available preferences&quot; /&gt;
+Available preferences:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;You can choose to delete the emails once you’ve saved them to your hard drive. This just places the emails into the trash folder in Gmail and it permanently deletes after 30 days&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You can choose to not save and delete emails if they haven’t been read yet&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You can choose if you want to save Received emails or Sent emails or both&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If you choose to save both, the “Save Received and Sent emails in separate folders” checkbox becomes enabled and if selected, the file structure will separate out each of the emails into their designated folders so it isn’t all combined.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/qQbRtrJ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here is the main screen of the application. On the top bar you can choose to Add Folders, Remove Folders, Edit Subfolders, and Change Preferences. Once you’ve added folders, you can click “Process Emails” at the bottom of the window and it will save into the file structure. I you click on one the Folder boxes it will bring up a Windows Explorer window with the emails from the folder in focus.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/4Voo6Fp.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is the view for adding a new Folder. You can give it a name and a “Type” which is like a preset for the Subfolders.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/Od1XIx1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here’s an example for a type, which automatically fills out the Subfolder list, but can still be edited and made custom. Filling out keywords for subfolders gives you this…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/6gejG3h.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And if the subject line of the email contains, in this case, “arch” and “Canopy” it will sort into the Canopy subfolder inside of the Arch main folder.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/089XtrZ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here’s the view for Disabling a folder from you processing list. However, this does not delete the emails already saved onto your drive. The reason I call it “disabling” and not “deleting” is because once you remove it, the Folder, Type, and Keywords are still saved, so that if you ever add it back, those 3 attributes will return without you having to set it up again.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/Dxqtqc4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here’s the view for managing Subfolders in a folder. The list is populated with the current Folder chosen from the dropdown and you can click on them to remove the Subfolder, or click “Add a Folder” to add a new Subfolder&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/6NqoFms.png&quot; alt=&quot;&quot; /&gt;
+And last but not least is the option to change your options even after you’ve created and initialized your account.&lt;/p&gt;
+
+&lt;p&gt;All of these changes come into action once you click “Process Emails” from the Main Screen and the emails get processed again.&lt;/p&gt;
+
+&lt;p&gt;## The Process&lt;/p&gt;
+
+&lt;p&gt;When starting the project, I had no idea if it was even possible to save Gmail emails at all, or even if the Outlook inbox would even clean up. I spent almost 2 weeks doing research into if I should’ve have saved and deleted the emails directly from Outlook or even if Gmail REST APIs would allow saving emails. Apparently, there is no way at all to interact with Outlook directly so that plan was over. I had to do things from Google’s side but the available documentation from Google regarding Gmail and saving emails and ESPECIALLY OAuth 2.0 for Java was scarce, but nonetheless it was a challenge I had to take on.&lt;/p&gt;
+
+&lt;p&gt;I started creating small services that did different parts of the overall flow of the application like authentication in one and downloading in another and saving in another and then tested each part with a test Gmail account. I also converted the project into JavaFX to make it seamless to attach a good UI to it and added the &lt;a href=&quot;http://www.jfoenix.com/&quot;&gt;JFoenix&lt;/a&gt; library to have a Material Design theme.&lt;/p&gt;
+
+&lt;p&gt;I grinded away at creating more and more features and working along with my “Project Manager” to make sure the features coming out were actually useful. I also realized I had to do a lot of caching and saving to make the QOL while using the program much better, so I used a lot of Serialization for my classes to make it easy to save and reload at the end and start of the runtime lifecycle.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-outcome&quot;&gt;The Outcome!&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Allows multiple users and different preferences for each user&lt;/li&gt;
+  &lt;li&gt;Saved preferences locally per each user and adjustable after initial setup&lt;/li&gt;
+  &lt;li&gt;Installer based installation and uninstallation&lt;/li&gt;
+  &lt;li&gt;Progress bar for email saving&lt;/li&gt;
+  &lt;li&gt;Smart and simple folder hierarchy&lt;/li&gt;
+  &lt;li&gt;Customizability of sorting per each keyword&lt;/li&gt;
+  &lt;li&gt;Ability to add/delete folders, add/delete subfolders, change preferences&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;not-to-flex-but-aka-the-attention-to-details&quot;&gt;Not to flex but… (aka the attention to details)&lt;/h2&gt;
+
+&lt;p&gt;There was no way I could give my final product as a just a folder and ask everyone that uses it run a startup script, so I created an installer for the program which includes an uninstaller and ability to create a desktop shortcut.&lt;/p&gt;
+
+&lt;p&gt;I realized early on that when switching the order of plugged in drives, it switches around the drive letters (like from E: to F: if it’s plugged in after another drive) and this actually changes the way that Java interprets that drive. So to make sure that the same drive was used when returning to the application, I created a few functions that would check for the name of the drives that are plugged in find the correct one before saving emails to make sure they save in the proper place.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-i-wouldve-changed&quot;&gt;What I would’ve changed&lt;/h2&gt;
+
+&lt;p&gt;I definitely did not figure out the purpose of Maven and Gradle by the time I was writing this program and now the most embarrassing part of having my code public on &lt;a href=&quot;https://github.com/rooshimadethis/Email-Sorter/tree/master/APIs&quot;&gt;github&lt;/a&gt; is that I actually have the downloaded jar files as a folder in the project called APIs.&lt;/p&gt;</content><author><name>Rooshi Patidar</name></author><category term="projects" /><summary type="html">G-Arch, Gmail Archiver By Rooshi Patidar</summary></entry><entry><title type="html">Welcome</title><link href="/blog/welcome" rel="alternate" type="text/html" title="Welcome" /><published>2017-07-27T05:00:00-05:00</published><updated>2017-07-27T05:00:00-05:00</updated><id>/blog/welcome</id><content type="html" xml:base="/blog/welcome">&lt;h2 id=&quot;pssst-scroll-down-a-bit&quot;&gt;pssst! scroll down a bit!&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;test change&lt;/p&gt;
+
+&lt;h3 id=&quot;welcome-to-rooshime&quot;&gt;Welcome to &lt;strong&gt;&lt;em&gt;rooshi.me&lt;/em&gt;&lt;/strong&gt;!&lt;/h3&gt;
+
+&lt;h2 id=&quot;current-status&quot;&gt;Current Status:&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Covid&lt;/strong&gt;: Positive&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: Frisco, TX (Do not come over)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Occupation&lt;/strong&gt;: Supah! Senior at UT&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DMs&lt;/strong&gt;: open. I don’t got no social media anymore, but if you do want to talk to me email me at my first name and my last name @gmail.com. No punctuation in between, all lowercase.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First name&lt;/strong&gt;: Rooshi&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Last name&lt;/strong&gt;: Patidar&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s best place to learn about me or anything I’ve ever thought about. If you’re looking for cute dog pics tho (and maybe some funny and/or politic-y memes) you can head over to my twitter account and peep my retweets***.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;***I no longer have any social media. I don’t really think it’s great for anyone. Therefore, I’m gonna try to make this my main platform and post some updates every now and then. Check out the top tabs: “Gallery” for picture-based posts, “Projects” for any creative or technical projects I’ve worked on, and “Blog” for those last 2 plus some normal blog-style posts.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ll try to add some new features like maybe a comment section. I want to interact with whoever comes across this site.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;One last thing, I am not in any sense a trained writer. I’m a Computer Engineer so like the opposite of a writer. I will occasionally not be following normal grammar rules for the sake of keeping my tone authentic to the little voice in my head.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/images/Welcome.gif&quot; alt=&quot;&quot; /&gt;my bff&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;Chiang Mai, Thailand&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>Rooshi Patidar</name></author><category term="home" /><summary type="html">pssst! scroll down a bit!</summary></entry></feed>
