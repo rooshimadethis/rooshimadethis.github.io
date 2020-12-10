@@ -4,7 +4,23 @@
     <title> - Articles</title>
     <description></description>
     <link>
-    http://localhost:4000</link>
+    </link>
+    
+      
+      <item>
+        <title>MB 2</title>
+        
+          <description>&lt;h1 id=&quot;microblog-2-automation&quot;&gt;Microblog #2: Automation!&lt;/h1&gt;
+&lt;h3 id=&quot;by-rooshi-patidar&quot;&gt;By Rooshi Patidar&lt;/h3&gt;
+
+</description>
+        
+        <pubDate>Wed, 09 Dec 2020 21:09:00 +0000</pubDate>
+        <link>
+        /blog/Microblog-2</link>
+        <guid isPermaLink="true">/blog/Microblog-2</guid>
+      </item>
+      
     
       
       <item>
@@ -17,8 +33,8 @@
         
         <pubDate>Wed, 02 Dec 2020 21:31:00 +0000</pubDate>
         <link>
-        http://localhost:4000/blog/the-problem-with-social-media</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/the-problem-with-social-media</guid>
+        /blog/the-problem-with-social-media</link>
+        <guid isPermaLink="true">/blog/the-problem-with-social-media</guid>
       </item>
       
     
@@ -33,8 +49,8 @@
         
         <pubDate>Sun, 29 Nov 2020 19:29:00 +0000</pubDate>
         <link>
-        http://localhost:4000/blog/Microblog-1</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/Microblog-1</guid>
+        /blog/Microblog-1</link>
+        <guid isPermaLink="true">/blog/Microblog-1</guid>
       </item>
       
     
@@ -49,8 +65,8 @@
         
         <pubDate>Thu, 30 Jul 2020 10:00:00 +0000</pubDate>
         <link>
-        http://localhost:4000/blog/Goodreads</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/Goodreads</guid>
+        /blog/Goodreads</link>
+        <guid isPermaLink="true">/blog/Goodreads</guid>
       </item>
       
     
@@ -64,8 +80,8 @@
         
         <pubDate>Wed, 29 Jan 2020 10:29:00 +0000</pubDate>
         <link>
-        http://localhost:4000/blog/my-unflattering-friends</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/my-unflattering-friends</guid>
+        /blog/my-unflattering-friends</link>
+        <guid isPermaLink="true">/blog/my-unflattering-friends</guid>
       </item>
       
     
@@ -80,8 +96,8 @@
         
         <pubDate>Sat, 08 Sep 2018 10:00:00 +0000</pubDate>
         <link>
-        http://localhost:4000/blog/GArch</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/GArch</guid>
+        /blog/GArch</link>
+        <guid isPermaLink="true">/blog/GArch</guid>
       </item>
       
     
@@ -95,8 +111,8 @@
         
         <pubDate>Thu, 27 Jul 2017 10:00:00 +0000</pubDate>
         <link>
-        http://localhost:4000/blog/welcome</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/welcome</guid>
+        /blog/welcome</link>
+        <guid isPermaLink="true">/blog/welcome</guid>
       </item>
       
     

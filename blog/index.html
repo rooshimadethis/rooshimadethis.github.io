@@ -24,8 +24,8 @@
 
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     <meta name="description" content="" />
-    <link rel="shortcut icon" href="http://localhost:4000/assets/images/profile.gif" type="image/png" />
-    <link rel="canonical" href="http://localhost:4000/blog/" />
+    <link rel="shortcut icon" href="/assets/images/profile.gif" type="image/png" />
+    <link rel="canonical" href="/blog/" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
 
      <!--title below is coming from _includes/dynamic_title-->
@@ -33,14 +33,14 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="rooshi" />
     <meta property="og:description" content="" />
-    <meta property="og:url" content="http://localhost:4000/blog/" />
-    <meta property="og:image" content="http://localhost:4000/assets/images/welcomeheader.gif" />
+    <meta property="og:url" content="/blog/" />
+    <meta property="og:image" content="/assets/images/welcomeheader.gif" />
     <meta property="article:publisher" content="https://www.facebook.com/rooshipatidar" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="rooshi" />
     <meta name="twitter:description" content="" />
-    <meta name="twitter:url" content="http://localhost:4000/" />
-    <meta name="twitter:image" content="http://localhost:4000/assets/images/welcomeheader.gif" />
+    <meta name="twitter:url" content="/" />
+    <meta name="twitter:image" content="/assets/images/welcomeheader.gif" />
     <meta name="twitter:label1" content="Written by" />
     <meta name="twitter:data1" content="rooshi" />
     <meta name="twitter:site" content="@rooooooship" />
@@ -55,18 +55,18 @@
     "publisher": {
         "@type": "Organization",
         "name": "rooshi",
-        "logo": "http://localhost:4000/assets/images/profile.gif"
+        "logo": "/assets/images/profile.gif"
     },
-    "url": "http://localhost:4000/blog/",
+    "url": "/blog/",
     "image": {
         "@type": "ImageObject",
-        "url": "http://localhost:4000/assets/images/welcomeheader.gif",
+        "url": "/assets/images/welcomeheader.gif",
         "width": 2000,
         "height": 666
     },
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "http://localhost:4000/blog/"
+        "@id": "/blog/"
     },
     "description": ""
 }
@@ -154,6 +154,44 @@ into the {body} of the default.hbs template -->
         <div class="post-feed">
             <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
             
+    <article class="post-card ">
+        
+            <a class="post-card-image-link" href="/blog/Microblog-2">
+                <div class="post-card-image" style="background-image: url(/assets/images/mb/two.jpg)"></div>
+            </a>
+        
+        <div class="post-card-content">
+            <a class="post-card-content-link" href="/blog/Microblog-2">
+                <header class="post-card-header">
+                    
+                        
+                            
+                                <span class="post-card-tags">Microblog</span>
+                            
+                        
+                    
+
+                    <h2 class="post-card-title">MB 2</h2>
+                </header>
+                <section class="post-card-excerpt">
+                    <p>Microblog #2: Automation! By Rooshi Patidar 12/09/2020 9:09 pm In a fit of manic energy after a pretty terrible few days of recovering from COVID, I made a couple of scripts to help</p>
+                </section>
+            </a>
+            <footer class="post-card-meta">
+                
+                    
+                        
+                        <img class="author-profile-image" src="/assets/images/profilephoto.jpg" alt="Rooshi Patidar" />
+                        
+                        <span class="post-card-author">
+                            <a href="/author/rooshi/">Rooshi Patidar</a>
+                        </span>
+                    
+                
+            </footer>
+        </div>
+    </article>
+
     <article class="post-card ">
         
             <a class="post-card-image-link" href="/blog/the-problem-with-social-media">
@@ -358,7 +396,7 @@ into the {body} of the default.hbs template -->
                     <h2 class="post-card-title">Welcome</h2>
                 </header>
                 <section class="post-card-excerpt">
-                    <p>pssst! scroll down a bit! Welcome to rooshi.me! Current Status: Covid: Positive Location: Frisco, TX (Do not come over) Occupation: Supah! Senior at UT DMs: open. I don’t got no social media anymore,</p>
+                    <p>pssst! scroll down a bit! Welcome to rooshi.me! Current Status: Covid: Positive Location: Frisco, TX (Do not come over) Occupation: Senior at UT DMs: always open. I don’t got no social media anymore,</p>
                 </section>
             </a>
             <footer class="post-card-meta">
@@ -390,7 +428,7 @@ into the {body} of the default.hbs template -->
         <footer class="site-footer outer">
             <div class="site-footer-content inner">
                 <!--
-                <section class="copyright"><a href="http://localhost:4000/">rooshi</a> &copy; 2020</section>
+                <section class="copyright"><a href="/">rooshi</a> &copy; 2020</section>
                 -->
                 <section class="poweredby"><a href="/author/rooshi">Made with &lt;3 by Rooshi</a></section>
                 <nav class="site-footer-nav">
