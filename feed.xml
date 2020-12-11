@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-12-10T07:37:11-06:00</updated><id>/</id><title type="html">rooshi</title><entry><title type="html">MB 2</title><link href="/blog/Microblog-2" rel="alternate" type="text/html" title="MB 2" /><published>2020-12-09T15:09:00-06:00</published><updated>2020-12-09T15:09:00-06:00</updated><id>/blog/Microblog-2</id><content type="html" xml:base="/blog/Microblog-2">&lt;h1 id=&quot;microblog-2-automation&quot;&gt;Microblog #2: Automation!&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-12-11T13:01:15-06:00</updated><id>/</id><title type="html">rooshi</title><subtitle>The production output of my website. Here's the real work: https://github.com/rooshimadethis/me</subtitle><entry><title type="html">MB 2</title><link href="/blog/Microblog-2" rel="alternate" type="text/html" title="MB 2" /><published>2020-12-09T15:09:00-06:00</published><updated>2020-12-09T15:09:00-06:00</updated><id>/blog/Microblog-2</id><content type="html" xml:base="/blog/Microblog-2">&lt;h1 id=&quot;microblog-2-automation&quot;&gt;Microblog #2: Automation!&lt;/h1&gt;
 &lt;h3 id=&quot;by-rooshi-patidar&quot;&gt;By Rooshi Patidar&lt;/h3&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -22,7 +22,7 @@ buildCommands = &quot;cd D:/Documents2/web/me \n bundle exec jekyll build \n&quo
 
 #2. copy everything in /me/_site
 #3. paste to /rooshimadethis.github.io (overwrite current files)
-sourceDirectory  = &quot;D:/Documents2/web/me/_site&quot;
+sourceDirectory  = &quot;D:/Documents2/web/me/_site/*&quot;
 destinationDirectory = &quot;D:/Documents2/web/rooshimadethis.github.io&quot;
 cpCommand = &quot;Copy-item -Force -Recurse -Verbose &quot; + sourceDirectory + &quot; -Destination &quot; + destinationDirectory +&quot; \n&quot;
 
@@ -790,6 +790,8 @@ And last but not least is the option to change your options even after you’ve 
 &lt;p&gt;&lt;strong&gt;MBTI&lt;/strong&gt;: INFP&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Favorite Food&lt;/strong&gt;: idk right now, I have no taste.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pronouns&lt;/strong&gt;: Comrade/Comrade’s&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
