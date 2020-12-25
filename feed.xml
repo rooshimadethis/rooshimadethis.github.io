@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-12-12T00:05:32-06:00</updated><id>/</id><title type="html">rooshi</title><entry><title type="html">MB 3</title><link href="/blog/Microblog-3" rel="alternate" type="text/html" title="MB 3" /><published>2020-12-11T16:52:00-06:00</published><updated>2020-12-11T16:52:00-06:00</updated><id>/blog/Microblog-3</id><content type="html" xml:base="/blog/Microblog-3">&lt;h1 id=&quot;microblog-3-comments&quot;&gt;Microblog #3: Comments!&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-12-24T18:18:54-06:00</updated><id>/</id><title type="html">rooshi</title><entry><title type="html">MB 3</title><link href="/blog/Microblog-3" rel="alternate" type="text/html" title="MB 3" /><published>2020-12-11T16:52:00-06:00</published><updated>2020-12-11T16:52:00-06:00</updated><id>/blog/Microblog-3</id><content type="html" xml:base="/blog/Microblog-3">&lt;h1 id=&quot;microblog-3-comments&quot;&gt;Microblog #3: Comments!&lt;/h1&gt;
 &lt;h3 id=&quot;by-rooshi-patidar&quot;&gt;By Rooshi Patidar&lt;/h3&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -48,7 +48,7 @@ Here it is. The greatest contribution to free speech that I could offer from my 
 from datetime import datetime
 
 #1. build the site
-buildCommands = &quot;cd D:/Documents2/web/me \n bundle exec jekyll build \n&quot;
+buildCommands = &quot;cd D:/Documents2/web/me \n git pull \n bundle exec jekyll build \n&quot;
 
 
 #2. copy everything in /me/_site
@@ -802,11 +802,11 @@ And last but not least is the option to change your options even after you’ve 
 
 &lt;h2 id=&quot;current-status&quot;&gt;Current Status:&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Covid&lt;/strong&gt;: Positive&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Covid&lt;/strong&gt;: Negative&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: Frisco, TX (Do not come over)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: Frisco, TX&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Occupation&lt;/strong&gt;: Senior at UT&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Occupation&lt;/strong&gt;: Computer Engineering and Marketing Senior at UT Austin&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 

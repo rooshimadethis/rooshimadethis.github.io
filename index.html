@@ -148,11 +148,11 @@ into the {body} of the default.hbs template -->
 
 <h2 id="current-status">Current Status:</h2>
 
-<p><strong>Covid</strong>: Positive</p>
+<p><strong>Covid</strong>: Negative</p>
 
-<p><strong>Location</strong>: Frisco, TX (Do not come over)</p>
+<p><strong>Location</strong>: Frisco, TX</p>
 
-<p><strong>Occupation</strong>: Senior at UT</p>
+<p><strong>Occupation</strong>: Computer Engineering and Marketing Senior at UT Austin</p>
 
 <p><br /></p>
 
@@ -195,6 +195,112 @@ into the {body} of the default.hbs template -->
 <p><br /></p>
 
                         </div>
+                    </section>
+                    <section>
+                        
+                <section class="comments">
+                    <section class="comments" id="comment-section">
+    <hr>
+    
+    <!-- Existing comments -->
+    <div class="comments__existing">
+      <h2>Comments</h2>
+      
+      
+      <!-- List main comments in reverse date order, newest first. List replies in date order, oldest first. -->
+      
+      
+
+<article id="comment-abb98940-3bfd-11eb-a884-93767b862610" class="js-comment comment" uid="abb98940-3bfd-11eb-a884-93767b862610">
+
+  <div class="comment__author">rooshi,
+    <span class="comment__date"><a href="#comment-abb98940-3bfd-11eb-a884-93767b862610" title="Permalink to this comment">December 11th, 2020 16:10</a></span>
+  </div>
+
+  <div class="comment__body">
+    <p>heyyy</p>
+
+  </div>
+
+
+    <div class="comment__meta">
+      <a rel="nofollow" class="comment__reply-link" onclick="return addComment.moveForm('comment-abb98940-3bfd-11eb-a884-93767b862610', 'respond', 'welcome', 'abb98940-3bfd-11eb-a884-93767b862610')">↪&#xFE0E; Reply to rooshi</a>
+    </div>
+</article>
+  
+
+  <hr style="border-top: 1px solid #ccc; background: transparent; margin-bottom: 10px;">
+
+      
+    </div>
+    
+  
+    <!-- New comment form -->
+    <div id="respond" class="comment__new">
+      <form class="js-form form" method="post" action="https://rooshi-me.herokuapp.com/v2/entry/rooshimadethis/me/master/comments">
+    <input type="hidden" name="options[origin]" value="/">
+    <input type="hidden" name="options[parent]" value="/">
+    <input type="hidden" id="comment-replying-to-uid" name="fields[replying_to_uid]" value="">
+    <input type="hidden" name="options[slug]" value="welcome">
+    <input type="hidden" name="options[reCaptcha][siteKey]" value="6Ld9WAEaAAAAAAxwoB5ii-9V5P6b5xJqvi6XXf-Y">
+    <input type="hidden" name="options[reCaptcha][secret]"  value="vPLbEjfUUhEEqJ1lcBUrAjqnMl+5rcfWSyzoD69Eyq8DU9ZG0blf9YQ7+GUlKaooAzd/WXhcWmNHZRp5DZkytn+m7P8R1ijDziSfkJ1fMndEfgVCcOI8LgNSUcC/ypwpPAM2ShKQZBA/FaROJAojIvm7uz34GIwTTKDX8HJu22fYxoWz5tXfFgkn9VWbCSyJG0geJZl0huOE7yHfiY9loSK7yzp35F+91I21EVYanEqBekmdDgDlBV9//r2KAr2riGr5HxnehKT5jR13FJU2AzETtePcufT1YojDOPdntCXcP0i8EHbvjyQGxwfuSBKXiAGYtApMSmxv5EPb5g2eiscclvvfzXxIcvfbA1usiYmCtAhICh5gnvturlamINcBmC0xlx7lpuAUzRCz6ptYwCLVdsKhmK0NWeORkzI8XPaAm5iOPgkhMrNC+/L2xsfXWgKR9zmJozoeQDtHaqM1MtWlTtcjA6yMF4QCmUxg8mgcz15aiBZSZ0RqLA45xscowlkMDGGVShOIl5G4NzeVhXmVFIFlLvAA39uo+0bqhAd1DZCdxxm2kfmJXzMiMtOUpnng50I5PHhCsSIiqsbBy2ZuW3YtDPyjXkAFr0WkntK37FUf0vTI/pY8UmTDKxBdkd3Jw2bfpgfRe1JqTqtJAdTdq8Pa6b+VoLvBxwuOE/Q=">
+  
+    <div class="textfield">
+      <label for="comment-form-message"><h2>Add Comment<small><a rel="nofollow" id="cancel-comment-reply-link" href="/#respond" style="display:none;">(cancel reply)</a></small></h2>
+        <textarea class="textfield__input" name="fields[message]" type="text" id="comment-form-message" placeholder="Your comment (markdown accepted)" required rows="6"></textarea>
+      </label>
+    </div>
+  
+      <div class="textfield narrowfield">
+        <label for="comment-form-name">Name
+          <input class="textfield__input" name="fields[name]" type="text" id="comment-form-name" placeholder="Your name (required)" required/>
+        </label>
+      </div>
+  
+      <div class="textfield narrowfield">
+        <label for="comment-form-email">E-mail
+          <input class="textfield__input" name="fields[email]" type="email" id="comment-form-email" placeholder="Your email (optional)"/>
+        </label>
+      </div>
+  
+      <div class="textfield narrowfield hp">
+        <label for="hp">
+          <input class="textfield__input" name="fields[hp]" id="hp" type="text" placeholder="Leave blank">
+        </label>
+      </div>
+  
+      <div id="reCaptcha" class="g-recaptcha" data-sitekey="6Ld9WAEaAAAAAAxwoB5ii-9V5P6b5xJqvi6XXf-Y"></div>
+  
+      <button class="button" id="comment-form-submit">
+        Submit
+      </button>
+  
+  </form>
+  
+  <article class="modal mdl-card mdl-shadow--2dp">
+    <div>
+      <h3 class="modal-title js-modal-title"></h3>
+    </div>
+    <div class="mdl-card__supporting-text js-modal-text"></div>
+    <div class="mdl-card__actions mdl-card--border">
+      <button class="button mdl-button--colored mdl-js-button mdl-js-ripple-effect js-close-modal">Close</button>
+    </div>
+  </article>
+  
+  <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display:none" >
+    <symbol id="icon-loading" viewBox="149.8 37.8 499.818 525"><path d="M557.8 187.8c13.8 0 24.601-10.8 24.601-24.6S571.6 138.6 557.8 138.6s-24.6 10.8-24.6 24.6c0 13.2 10.8 24.6 24.6 24.6zm61.2 90.6c-16.8 0-30.6 13.8-30.6 30.6s13.8 30.6 30.6 30.6 30.6-13.8 30.6-30.6c.6-16.8-13.2-30.6-30.6-30.6zm-61.2 145.2c-20.399 0-36.6 16.2-36.6 36.601 0 20.399 16.2 36.6 36.6 36.6 20.4 0 36.601-16.2 36.601-36.6C595 439.8 578.2 423.6 557.8 423.6zM409 476.4c-24 0-43.2 19.199-43.2 43.199s19.2 43.2 43.2 43.2 43.2-19.2 43.2-43.2S433 476.4 409 476.4zM260.8 411c-27 0-49.2 22.2-49.2 49.2s22.2 49.2 49.2 49.2 49.2-22.2 49.2-49.2-22.2-49.2-49.2-49.2zm-10.2-102c0-27.6-22.8-50.4-50.4-50.4-27.6 0-50.4 22.8-50.4 50.4 0 27.6 22.8 50.4 50.4 50.4 27.6 0 50.4-22.2 50.4-50.4zm10.2-199.8c-30 0-54 24-54 54s24 54 54 54 54-24 54-54-24.6-54-54-54zM409 37.8c-35.4 0-63.6 28.8-63.6 63.6S374.2 165 409 165s63.6-28.8 63.6-63.6-28.2-63.6-63.6-63.6z"/>
+    </symbol>
+  </svg>
+  
+  
+    </div>
+  </section>
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  <script src="/assets/main.js"></script>
+  <script src="https://www.google.com/recaptcha/api.js"></script>
+                </section>
+            
                     </section>
 
         </article>
