@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-01-10T18:50:31-06:00</updated><id>/</id><title type="html">rooshi</title><entry><title type="html">A Side Effect of the Information Age</title><link href="/blog/Microblog-4" rel="alternate" type="text/html" title="A Side Effect of the Information Age" /><published>2021-01-04T10:39:00-06:00</published><updated>2021-01-04T10:39:00-06:00</updated><id>/blog/Microblog-4</id><content type="html" xml:base="/blog/Microblog-4">&lt;h1 id=&quot;microblog-4-a-side-effect-of-the-information-age&quot;&gt;Microblog #4: A Side Effect of the Information Age&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-01-10T21:36:53-06:00</updated><id>/</id><title type="html">rooshi</title><entry><title type="html">Introducing Quick Thoughts!</title><link href="/blog/Microblog-5" rel="alternate" type="text/html" title="Introducing Quick Thoughts!" /><published>2021-01-10T13:36:00-06:00</published><updated>2021-01-10T13:36:00-06:00</updated><id>/blog/Microblog-5</id><content type="html" xml:base="/blog/Microblog-5">&lt;h1 id=&quot;microblog-5-introducing-quick-thoughts&quot;&gt;Microblog #5: Introducing Quick Thoughts!&lt;/h1&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;01/10/2021 7:36 pm&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+I said at the end of my last post that I would attempt to write a little bit every week. My original aim was to improve my writing skills, but I realized I just wanted to add anything to this site on a weekly basis. It feels like a nice extension of myself that I want to take care of. It’s my main outlet for my thoughts now that I have no social media. But thoughts don’t only exist in a long format. That’s why for the last couple days I have worked on adding a new feature to this site called “Quick Thoughts”. It’s pretty much a microblogging component to this site for the purposes of getting some quick thoughts out there (obvs). If I find myself with an interesting question or idea that can’t be researched and expanded upon, poof, it’s a quick thought. Any quip or quote I find entertaining, boom, quick thought. I will be having fun with this. Check it out at &lt;a href=&quot;/quickthoughts/&quot;&gt;/quickthoughts&lt;/a&gt;. Until next week.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;- I’m grateful for good food because, man, I really don’t like eating food.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>Rooshi Patidar</name></author><category term="microblog" /><summary type="html">Microblog #5: Introducing Quick Thoughts!</summary></entry><entry><title type="html">A Side Effect of the Information Age</title><link href="/blog/Microblog-4" rel="alternate" type="text/html" title="A Side Effect of the Information Age" /><published>2021-01-04T10:39:00-06:00</published><updated>2021-01-04T10:39:00-06:00</updated><id>/blog/Microblog-4</id><content type="html" xml:base="/blog/Microblog-4">&lt;h1 id=&quot;microblog-4-a-side-effect-of-the-information-age&quot;&gt;Microblog #4: A Side Effect of the Information Age&lt;/h1&gt;
 &lt;h3 id=&quot;by-rooshi-patidar&quot;&gt;By Rooshi Patidar&lt;/h3&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -880,58 +894,4 @@ And last but not least is the option to change your options even after you’ve 
 
 &lt;h2 id=&quot;what-i-wouldve-changed&quot;&gt;What I would’ve changed&lt;/h2&gt;
 
-&lt;p&gt;I definitely did not figure out the purpose of Maven and Gradle by the time I was writing this program and now the most embarrassing part of having my code public on &lt;a href=&quot;https://github.com/rooshimadethis/Email-Sorter/tree/master/APIs&quot;&gt;github&lt;/a&gt; is that I actually have the downloaded jar files as a folder in the project called APIs.&lt;/p&gt;</content><author><name>Rooshi Patidar</name></author><category term="projects" /><summary type="html">G-Arch, Gmail Archiver By Rooshi Patidar</summary></entry><entry><title type="html">Welcome</title><link href="/blog/welcome" rel="alternate" type="text/html" title="Welcome" /><published>2017-07-27T05:00:00-05:00</published><updated>2017-07-27T05:00:00-05:00</updated><id>/blog/welcome</id><content type="html" xml:base="/blog/welcome">&lt;h2 id=&quot;pssst-scroll-down-a-bit&quot;&gt;pssst! scroll down a bit!&lt;/h2&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;welcome-to-rooshime-&quot;&gt;Welcome to &lt;strong&gt;&lt;em&gt;rooshi.me&lt;/em&gt;&lt;/strong&gt;! 😁&lt;/h3&gt;
-
-&lt;h2 id=&quot;current-status&quot;&gt;Current Status:&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Covid&lt;/strong&gt;: Negative 🙅‍♀️&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: Austin, TX&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Occupation&lt;/strong&gt;: Computer Engineering and Marketing Senior at UT Austin&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;DMs&lt;/strong&gt;: always open. I don’t got no social media anymore, but if you do want to talk to me email me at my first name and my last name @gmail.com. No punctuation in between, all lowercase.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First name&lt;/strong&gt;: Rooshi&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Last name&lt;/strong&gt;: Patidar&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;MBTI&lt;/strong&gt;: INFP&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Favorite Food&lt;/strong&gt;: 🤷‍♂️&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pronouns&lt;/strong&gt;: Comrade/Comrade’s&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Floss&lt;/strong&gt;: At least once a day 😁🦷&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;It’s best place to learn about me or anything I’ve ever thought about. If you’re looking for cute dog pics tho (and maybe some funny and/or politicky memes) you can head over to my twitter account and peep my retweets***.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;***I no longer have any social media. I don’t really think it’s great for anyone. Therefore, I’m gonna try to make this my main platform and post some updates every now and then. Check out the top tabs: “Gallery” for picture-based posts, “Projects” for any creative or technical projects I’ve worked on, and “Blog” for those last 2 plus some normal blog-style posts.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;I’ll try to add some new features like maybe a comment section. I want to interact with whoever comes across this site. &amp;lt;– Done. Wow I’m good.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;One last thing, I am not in any sense a trained writer. I’m a Computer Engineer so like the opposite of a writer. I will occasionally not be following normal grammar rules for the sake of keeping my tone authentic to the little voice in my head.&lt;/p&gt;
-
-&lt;p style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/images/gangnam.jpg&quot; alt=&quot;&quot; /&gt;gang(nam)&lt;/p&gt;
-
-&lt;p style=&quot;text-align: center; font-size: 80%; font-weight: 100; &quot;&gt;Chiang Mai, Thailand&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>Rooshi Patidar</name></author><category term="home" /><summary type="html">pssst! scroll down a bit!</summary></entry></feed>
+&lt;p&gt;I definitely did not figure out the purpose of Maven and Gradle by the time I was writing this program and now the most embarrassing part of having my code public on &lt;a href=&quot;https://github.com/rooshimadethis/Email-Sorter/tree/master/APIs&quot;&gt;github&lt;/a&gt; is that I actually have the downloaded jar files as a folder in the project called APIs.&lt;/p&gt;</content><author><name>Rooshi Patidar</name></author><category term="projects" /><summary type="html">G-Arch, Gmail Archiver By Rooshi Patidar</summary></entry></feed>
