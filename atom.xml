@@ -4,7 +4,7 @@
     <title> - Articles</title>
     <description></description>
     <link>
-    </link>
+    http://localhost:4000</link>
     
       
       <item>
@@ -18,8 +18,8 @@
         
         <pubDate>Sun, 17 Jan 2021 17:24:00 +0000</pubDate>
         <link>
-        /blog/Microblog-6-quickening</link>
-        <guid isPermaLink="true">/blog/Microblog-6-quickening</guid>
+        http://localhost:4000/blog/Microblog-6-quickening</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Microblog-6-quickening</guid>
       </item>
       
     
@@ -34,8 +34,8 @@
         
         <pubDate>Sun, 10 Jan 2021 19:36:00 +0000</pubDate>
         <link>
-        /blog/Microblog-5-quickthoughts</link>
-        <guid isPermaLink="true">/blog/Microblog-5-quickthoughts</guid>
+        http://localhost:4000/blog/Microblog-5-quickthoughts</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Microblog-5-quickthoughts</guid>
       </item>
       
     
@@ -50,8 +50,8 @@
         
         <pubDate>Mon, 04 Jan 2021 16:39:00 +0000</pubDate>
         <link>
-        /blog/Microblog-4-info</link>
-        <guid isPermaLink="true">/blog/Microblog-4-info</guid>
+        http://localhost:4000/blog/Microblog-4-info</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Microblog-4-info</guid>
       </item>
       
     
@@ -66,8 +66,8 @@
         
         <pubDate>Sat, 26 Dec 2020 01:19:00 +0000</pubDate>
         <link>
-        /blog/The-Midnight-Sky</link>
-        <guid isPermaLink="true">/blog/The-Midnight-Sky</guid>
+        http://localhost:4000/blog/The-Midnight-Sky</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/The-Midnight-Sky</guid>
       </item>
       
     
@@ -82,8 +82,8 @@
         
         <pubDate>Fri, 11 Dec 2020 22:52:00 +0000</pubDate>
         <link>
-        /blog/Microblog-3-Comments</link>
-        <guid isPermaLink="true">/blog/Microblog-3-Comments</guid>
+        http://localhost:4000/blog/Microblog-3-Comments</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Microblog-3-Comments</guid>
       </item>
       
     
@@ -98,8 +98,8 @@
         
         <pubDate>Wed, 09 Dec 2020 21:09:00 +0000</pubDate>
         <link>
-        /blog/Microblog-2</link>
-        <guid isPermaLink="true">/blog/Microblog-2</guid>
+        http://localhost:4000/blog/Microblog-2</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Microblog-2</guid>
       </item>
       
     
@@ -114,8 +114,8 @@
         
         <pubDate>Wed, 02 Dec 2020 21:31:00 +0000</pubDate>
         <link>
-        /blog/the-problem-with-social-media</link>
-        <guid isPermaLink="true">/blog/the-problem-with-social-media</guid>
+        http://localhost:4000/blog/the-problem-with-social-media</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/the-problem-with-social-media</guid>
       </item>
       
     
@@ -130,8 +130,8 @@
         
         <pubDate>Sun, 29 Nov 2020 19:29:00 +0000</pubDate>
         <link>
-        /blog/Microblog-1</link>
-        <guid isPermaLink="true">/blog/Microblog-1</guid>
+        http://localhost:4000/blog/Microblog-1</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Microblog-1</guid>
       </item>
       
     
@@ -146,8 +146,8 @@
         
         <pubDate>Thu, 30 Jul 2020 10:00:00 +0000</pubDate>
         <link>
-        /blog/Goodreads</link>
-        <guid isPermaLink="true">/blog/Goodreads</guid>
+        http://localhost:4000/blog/Goodreads</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Goodreads</guid>
       </item>
       
     
@@ -161,8 +161,8 @@
         
         <pubDate>Wed, 29 Jan 2020 10:29:00 +0000</pubDate>
         <link>
-        /blog/my-unflattering-friends</link>
-        <guid isPermaLink="true">/blog/my-unflattering-friends</guid>
+        http://localhost:4000/blog/my-unflattering-friends</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/my-unflattering-friends</guid>
       </item>
       
     
@@ -177,8 +177,8 @@
         
         <pubDate>Sat, 08 Sep 2018 10:00:00 +0000</pubDate>
         <link>
-        /blog/GArch</link>
-        <guid isPermaLink="true">/blog/GArch</guid>
+        http://localhost:4000/blog/GArch</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/GArch</guid>
       </item>
       
     
@@ -192,8 +192,8 @@
         
         <pubDate>Thu, 27 Jul 2017 10:00:00 +0000</pubDate>
         <link>
-        /blog/welcome</link>
-        <guid isPermaLink="true">/blog/welcome</guid>
+        http://localhost:4000/blog/welcome</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/welcome</guid>
       </item>
       
     
